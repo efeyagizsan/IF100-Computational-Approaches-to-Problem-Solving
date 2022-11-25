@@ -1,0 +1,3457 @@
+Address,Room,Parking,Elevator,Price(USD)
+Shahran_1_True_True:61666.67
+Shahran_1_True_True:61666.67
+Pardis_2_True_True:18333.33
+Shahrake Qods_2_True_True:30083.33
+Shahrake Gharb_2_True_True:233333.33
+North Program Organization_2_True_False:68333.33
+Pardis_2_True_True:20000.0
+Shahran_1_True_True:71666.67
+Andisheh_2_True_False:16433.33
+West Ferdows Boulevard_1_True_True:79000.0
+West Ferdows Boulevard_2_True_True:81666.67
+Narmak_1_True_True:70000.0
+Narmak_1_False_True:56333.33
+Saadat Abad_3_True_True:366666.67
+Zafar_2_True_True:166666.67
+Islamshahr_1_False_False:19000.0
+Narmak_3_True_True:223333.33
+Pirouzi_2_False_False:48333.33
+West Ferdows Boulevard_3_True_True:213333.33
+Pirouzi_1_False_False:46333.33
+Shahrake Gharb_2_True_True:233333.33
+Shahrake Shahid Bagheri_2_True_True:83333.33
+Shahran_1_True_True:62666.67
+Moniriyeh_2_True_True:75900.0
+Saadat Abad_2_True_True:238333.33
+Velenjak_3_True_True:498166.67
+Amirieh_2_True_True:59033.33
+Pirouzi_2_True_True:135300.0
+Southern Janatabad_2_True_True:21000.0
+West Ferdows Boulevard_2_True_True:106666.67
+Salsabil_2_False_False:50000.0
+West Ferdows Boulevard_1_True_True:73333.33
+Zargandeh_2_True_True:262400.0
+Feiz Garden_2_True_False:78333.33
+West Ferdows Boulevard_2_True_True:83333.33
+Water Organization_1_True_True:71666.67
+West Ferdows Boulevard_1_True_True:71666.67
+West Ferdows Boulevard_2_True_True:125000.0
+West Ferdows Boulevard_2_True_True:175000.0
+West Ferdows Boulevard_2_True_True:161000.0
+Saadat Abad_1_True_True:113333.33
+Saadat Abad_1_True_True:128333.33
+Shahrake Qods_2_False_True:40000.0
+ShahrAra_3_True_False:166666.67
+Gisha_2_True_True:158333.33
+Gisha_1_True_True:99333.33
+Shahrake Gharb_3_True_False:233333.33
+Ray_2_True_True:67833.33
+Abbasabad_1_True_True:82000.0
+Pardis_2_True_True:18000.0
+Ostad Moein_2_False_True:48333.33
+Farmanieh_3_True_True:333333.33
+Parand_2_False_False:21166.67
+Punak_1_True_False:67666.67
+Punak_1_True_False:67666.67
+Shahran_2_True_True:78333.33
+Qasr-od-Dasht_2_True_True:100000.0
+Aqdasieh_3_True_True:240000.0
+Pakdasht_3_True_True:58333.33
+Railway_2_True_True:110000.0
+Punak_2_True_True:93333.33
+Punak_2_True_False:73333.33
+Punak_1_True_False:73333.33
+Punak_2_True_False:73333.33
+Shahran_2_True_True:116666.67
+Aqdasieh_2_True_True:233333.33
+Central Janatabad_1_True_True:103333.33
+West Ferdows Boulevard_1_True_True:81666.67
+East Ferdows Boulevard_1_True_False:64000.0
+Pakdasht KhatunAbad_1_False_False:28333.33
+Amirieh_2_True_True:55000.0
+Amirieh_2_True_True:56666.67
+Parand_3_False_True:18666.67
+Punak_1_True_True:71666.67
+Sattarkhan_3_True_True:183333.33
+Saadat Abad_3_True_True:340000.0
+Shahran_1_True_True:58666.67
+Amirieh_2_True_True:56666.67
+Parand_3_False_True:18666.67
+Punak_1_True_True:71666.67
+Sattarkhan_3_True_True:183333.33
+Saadat Abad_3_True_True:340000.0
+Shahran_1_True_True:58666.67
+Baghestan_3_True_False:50000.0
+West Ferdows Boulevard_2_True_True:124333.33
+Shahrake Qods_2_False_False:20666.67
+Shahryar_1_False_False:19333.33
+Northern Janatabad_2_True_True:101666.67
+West Ferdows Boulevard_2_True_False:66666.67
+North Program Organization_2_True_True:86666.67
+Daryan No_3_True_True:199666.67
+North Program Organization_2_True_True:76666.67
+Pirouzi_1_True_False:43333.33
+Southern Program Organization_2_True_True:75666.67
+Rudhen_3_True_True:133333.33
+West Pars_2_True_True:133333.33
+Afsarieh_2_True_True:55000.0
+Marzdaran_3_True_True:223333.33
+Parand_2_True_True:19333.33
+Punak_1_True_True:76666.67
+Shahrake Qods_1_True_True:21666.67
+Dorous_2_True_True:563333.33
+Shahrake Qods_0_False_False:8266.67
+Pardis_2_True_True:17000.0
+Shahran_2_True_True:128333.33
+Sadeghieh_3_True_True:200000.0
+Chahardangeh_2_False_False:26000.0
+ShahrAra_3_True_True:240000.0
+Parand_2_True_True:13666.67
+Pakdasht_2_False_False:14333.33
+Baqershahr_2_False_False:26666.67
+Parand_2_True_True:18166.67
+Parand_2_True_False:42666.67
+Punak_2_True_True:93333.33
+Gisha_3_True_True:373333.33
+Parand_3_True_False:25000.0
+Jeyhoon_1_False_False:28333.33
+Lavizan_2_True_True:110000.0
+Shams Abad_2_True_True:109333.33
+Fatemi_3_True_True:160000.0
+Gisha_3_True_True:243333.33
+Keshavarz Boulevard_3_True_True:131666.67
+Parand_2_False_True:12333.33
+Baghestan_2_False_False:25000.0
+Salsabil_2_True_True:57500.0
+Kahrizak_2_True_True:26000.0
+Shahryar_2_True_True:47300.0
+Qarchak_2_True_False:40000.0
+Northren Jamalzadeh_2_True_True:120000.0
+Salsabil_1_True_False:35000.0
+Shahryar_2_True_False:40000.0
+Shahrake Qods_1_False_False:11333.33
+Ostad Moein_3_True_False:110000.0
+Azarbaijan_2_True_True:93333.33
+Bahar_2_False_True:40000.0
+Qarchak_1_False_False:120.0
+Pakdasht_0_False_False:5500.0
+Railway_2_True_True:95333.33
+Persian Gulf Martyrs Lake_3_True_True:127000.0
+Persian Gulf Martyrs Lake_3_True_True:59666.67
+Persian Gulf Martyrs Lake_2_True_True:51000.0
+Beryanak_2_False_False:33333.33
+Punak_2_True_True:116666.67
+Heshmatieh_2_True_True:100000.0
+Elm-o-Sanat_2_False_True:60000.0
+Saadat Abad_3_True_True:666666.67
+Golestan_2_True_True:31666.67
+Southern Janatabad_2_True_True:200000.0
+Shahr-e-Ziba_3_True_True:123333.33
+Southern Janatabad_2_True_True:66666.67
+Punak_2_True_True:101666.67
+Pardis_2_True_True:20166.67
+Pasdaran_3_True_True:330000.0
+Pirouzi_3_True_True:123333.33
+Feiz Garden_2_True_True:83333.33
+Farmanieh_3_True_True:349333.33
+Chardivari_3_True_True:254400.0
+Punak_3_True_True:254400.0
+Gheitarieh_3_True_True:410000.0
+Farmanieh_3_True_True:898333.33
+Kamranieh_3_True_True:810000.0
+Central Janatabad_2_True_True:100000.0
+East Ferdows Boulevard_2_True_True:70000.0
+Gholhak_2_True_True:156666.67
+Pasdaran_2_True_True:306000.0
+Islamshahr_2_True_True:52650.0
+Pasdaran_3_True_True:400000.0
+Pirouzi_1_True_False:58333.33
+Central Janatabad_2_True_True:126000.0
+Heravi_2_True_True:270000.0
+Heravi_3_True_True:303333.33
+Hashemi_2_False_True:51666.67
+Jeyhoon_2_False_True:54666.67
+Gheitarieh_4_True_True:666666.67
+Central Janatabad_2_True_True:91666.67
+Punak_1_True_True:58333.33
+Heravi_3_True_True:513333.33
+Andisheh_1_True_False:11666.67
+Heravi_1_True_True:137166.67
+Pasdaran_2_True_True:266666.67
+Pardis_2_True_True:19333.33
+Pardis_2_True_True:18666.67
+Heravi_2_True_True:160000.0
+West Ferdows Boulevard_1_False_False:51666.67
+Saadat Abad_2_True_True:250000.0
+Islamshahr_2_True_True:21000.0
+Dehkade Olampic_2_True_False:66666.67
+Golestan_3_True_True:80000.0
+Golestan_2_True_True:36666.67
+Saadat Abad_4_True_True:800000.0
+West Pars_2_True_True:127333.33
+Punak_2_True_True:200000.0
+Saadat Abad_2_True_True:193333.33
+Damavand_2_True_False:116666.67
+Saadat Abad_3_True_True:410000.0
+Pasdaran_3_True_True:525000.0
+East Ferdows Boulevard_3_True_True:366666.67
+Southern Janatabad_1_True_True:100000.0
+Pirouzi_3_True_True:132266.67
+Republic_2_True_True:63633.33
+Farmanieh_4_True_True:1260000.0
+East Ferdows Boulevard_2_True_True:190000.0
+Zaferanieh_3_True_True:349666.67
+West Ferdows Boulevard_3_True_True:106666.67
+West Ferdows Boulevard_1_True_True:64000.0
+Gheitarieh_3_True_True:410000.0
+Gheitarieh_2_True_False:246666.67
+Saadat Abad_2_True_True:206666.67
+East Ferdows Boulevard_2_True_True:78333.33
+East Ferdows Boulevard_1_True_True:61666.67
+Shahrake Gharb_2_True_True:716666.67
+Qazvin Imamzadeh Hassan_2_True_True:62866.67
+Shahran_2_True_True:73333.33
+Beryanak_2_True_True:77433.33
+Niavaran_2_True_True:226666.67
+Farmanieh_3_True_True:690000.0
+Gheitarieh_3_True_True:208333.33
+Valiasr_2_True_True:62100.0
+Pasdaran_3_True_True:433333.33
+Qalandari_3_True_True:416666.67
+Pasdaran_3_True_True:566666.67
+Pasdaran_2_True_True:283333.33
+Valiasr_2_True_True:76666.67
+Central Janatabad_2_True_True:111666.67
+Jeyhoon_2_True_True:66666.67
+Punak_3_True_True:190000.0
+Shahrake Gharb_3_True_True:900000.0
+Shahrake Gharb_2_True_True:420000.0
+Amir Bahador_2_True_True:56733.33
+Central Janatabad_1_True_True:100000.0
+Pasdaran_2_True_True:250000.0
+Pasdaran_2_True_True:250000.0
+Ekhtiarieh_2_True_True:166666.67
+Pardis_2_True_True:23333.33
+Farmanieh_3_True_True:520000.0
+Farmanieh_3_True_True:511666.67
+Ekbatan_1_True_True:93666.67
+Parand_2_True_True:13166.67
+Gheitarieh_3_True_True:503333.33
+Shahran_1_True_True:61666.67
+Rudhen_2_True_True:48333.33
+Islamshahr_2_True_True:23833.33
+Islamshahr_2_True_False:40000.0
+Southern Program Organization_2_True_True:142000.0
+Andisheh_2_True_True:50000.0
+West Ferdows Boulevard_2_True_False:70666.67
+East Ferdows Boulevard_2_True_False:66666.67
+Pardis_2_True_True:19666.67
+West Ferdows Boulevard_1_True_False:64333.33
+East Ferdows Boulevard_2_True_True:91000.0
+East Ferdows Boulevard_2_True_False:105000.0
+East Ferdows Boulevard_2_True_True:153333.33
+Shahr-e-Ziba_2_True_True:100000.0
+East Ferdows Boulevard_2_True_True:150000.0
+East Ferdows Boulevard_2_True_True:170000.0
+Shahr-e-Ziba_2_True_True:73333.33
+East Ferdows Boulevard_2_True_False:76666.67
+Saadat Abad_2_True_True:150000.0
+Pardis_2_True_True:20833.33
+Northern Janatabad_1_True_False:54000.0
+Niavaran_3_True_True:568333.33
+East Ferdows Boulevard_1_True_True:64000.0
+Farmanieh_3_True_True:586666.67
+Shahr-e-Ziba_2_True_True:75000.0
+Niavaran_3_True_True:843333.33
+West Ferdows Boulevard_1_True_True:61666.67
+Saadat Abad_2_True_False:390000.0
+Southern Janatabad_2_True_True:120000.0
+Southern Janatabad_2_True_True:146666.67
+Gheitarieh_3_True_True:513333.33
+Shahrake Gharb_3_True_True:758333.33
+Punak_3_True_True:150000.0
+Punak_2_True_True:143333.33
+Punak_2_True_True:112666.67
+Saadat Abad_3_True_True:333333.33
+Saadat Abad_2_True_True:216666.67
+Punak_1_True_False:73333.33
+Central Janatabad_2_True_True:107333.33
+Punak_3_True_True:208000.0
+Punak_2_True_True:111666.67
+Persian Gulf Martyrs Lake_3_True_True:121666.67
+Saadat Abad_3_True_True:516666.67
+East Ferdows Boulevard_2_True_True:183333.33
+Absard_2_True_False:140000.0
+Absard_2_True_False:130000.0
+Pasdaran_1_True_True:220000.0
+Haft Tir_3_True_True:156666.67
+Shahrake Qods_2_True_True:27000.0
+Shahr-e-Ziba_2_True_True:73333.33
+Shahr-e-Ziba_2_True_True:122666.67
+Marzdaran_3_True_True:422333.33
+Marzdaran_3_True_True:333333.33
+Pasdaran_3_True_True:270000.0
+Mahallati_3_True_True:306666.67
+Mahallati_3_True_True:173333.33
+Shahran_2_True_True:113333.33
+Shahran_2_True_True:118333.33
+Farmanieh_3_True_True:666666.67
+Southern Janatabad_1_True_True:65000.0
+Pasdaran_3_True_True:516666.67
+Southern Janatabad_1_False_True:66666.67
+Southern Janatabad_1_True_False:76000.0
+Southern Janatabad_2_True_True:66666.67
+Southern Janatabad_2_True_True:65000.0
+Feiz Garden_2_True_True:130000.0
+Pasdaran_2_True_True:260000.0
+Southern Janatabad_1_True_True:76000.0
+Punak_1_True_True:96666.67
+Ozgol_2_True_True:166666.67
+Southern Janatabad_2_True_True:63333.33
+Southern Janatabad_2_True_True:66666.67
+Southern Janatabad_2_True_True:73333.33
+Southern Janatabad_2_True_True:83333.33
+Southern Janatabad_1_True_True:73333.33
+Pasdaran_3_True_True:350000.0
+Zaferanieh_2_True_True:583333.33
+Southern Janatabad_1_True_True:66666.67
+Southern Janatabad_1_True_True:75000.0
+Southern Janatabad_1_True_True:75000.0
+Southern Janatabad_2_True_True:120000.0
+Heravi_2_True_True:200000.0
+Narmak_2_True_False:94733.33
+Central Janatabad_2_True_True:104000.0
+Gheitarieh_3_True_True:295333.33
+Saadat Abad_2_True_True:151666.67
+Punak_2_True_True:123333.33
+Gheitarieh_3_True_True:333333.33
+Pasdaran_3_True_True:552666.67
+Punak_1_True_True:108333.33
+Zaferanieh_3_True_True:1750000.0
+Northern Janatabad_2_True_True:118333.33
+West Ferdows Boulevard_2_True_True:115000.0
+Shahr-e-Ziba_1_True_True:83000.0
+Ekhtiarieh_3_True_True:280000.0
+Shahr-e-Ziba_1_True_True:67333.33
+Southern Janatabad_2_True_False:126666.67
+West Ferdows Boulevard_1_False_False:51666.67
+Central Janatabad_3_True_True:176666.67
+Saadat Abad_4_True_True:1116666.67
+Saadat Abad_4_True_True:1333333.33
+Saadat Abad_3_True_True:650000.0
+Gheitarieh_2_True_True:266666.67
+Saadat Abad_3_True_True:493333.33
+Shahrake Gharb_2_True_True:490000.0
+Saadat Abad_4_True_True:733333.33
+North Program Organization_3_True_True:548333.33
+Heravi_3_True_True:525000.0
+Saadat Abad_4_True_True:833333.33
+Farmanieh_4_True_True:1500000.0
+Ozgol_3_True_True:589066.67
+Farmanieh_2_True_True:413333.33
+Farmanieh_3_True_True:924000.0
+North Program Organization_2_True_True:103333.33
+Niavaran_3_True_True:623333.33
+Tajrish_2_True_True:220000.0
+Absard_2_True_False:173333.33
+Saadat Abad_3_True_True:400000.0
+Ekhtiarieh_3_True_True:216666.67
+Feiz Garden_2_True_True:128333.33
+Northern Janatabad_2_True_True:106666.67
+Shahr-e-Ziba_2_True_False:85666.67
+Feiz Garden_2_True_True:143333.33
+Pasdaran_2_True_True:540000.0
+Dorous_3_True_True:460000.0
+Dorous_3_True_True:616666.67
+Feiz Garden_2_True_True:128333.33
+Shahr-e-Ziba_2_True_True:85666.67
+Pasdaran_2_True_True:186666.67
+Central Janatabad_1_True_True:108333.33
+Abazar_2_True_True:100000.0
+Saadat Abad_1_True_True:113333.33
+Shahr-e-Ziba_2_True_True:213333.33
+Shahr-e-Ziba_2_True_False:63000.0
+Shahr-e-Ziba_2_True_False:63000.0
+Saadat Abad_2_True_True:180000.0
+Parand_2_True_True:47250.0
+Ostad Moein_2_True_True:52833.33
+Southern Janatabad_2_True_True:109000.0
+Northern Janatabad_2_True_False:79333.33
+Koohsar_2_True_True:150000.0
+Saadat Abad_2_True_True:153333.33
+Niavaran_2_True_True:426666.67
+West Ferdows Boulevard_1_True_True:130000.0
+Pasdaran_3_True_True:393333.33
+Ekhtiarieh_2_True_True:246666.67
+Saadat Abad_2_True_True:190000.0
+Pardis_2_True_True:21666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Persian Gulf Martyrs Lake_1_True_True:29166.67
+Southern Program Organization_1_True_True:87666.67
+West Ferdows Boulevard_1_True_True:73333.33
+Hekmat_2_True_True:309000.0
+West Ferdows Boulevard_1_True_True:73333.33
+Punak_3_True_True:256666.67
+Persian Gulf Martyrs Lake_4_True_True:428333.33
+Punak_2_True_True:133933.33
+Punak_3_True_True:356266.67
+West Ferdows Boulevard_1_False_False:54666.67
+West Ferdows Boulevard_1_False_False:51666.67
+West Ferdows Boulevard_1_True_False:71000.0
+Sattarkhan_2_True_True:136666.67
+West Ferdows Boulevard_2_True_True:93333.33
+West Ferdows Boulevard_2_True_True:150666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Niavaran_1_True_True:186666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Ekbatan_1_True_True:123333.33
+Jeyhoon_2_True_True:70000.0
+Parastar_1_False_False:32666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Ekhtiarieh_3_True_True:750000.0
+Gheitarieh_3_True_True:466666.67
+Saadat Abad_4_True_True:1283333.33
+Shahr-e-Ziba_2_True_False:63000.0
+Pardis_2_True_True:22666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Gisha_2_True_True:172666.67
+Shahr-e-Ziba_1_True_True:86000.0
+Southern Janatabad_2_True_True:112333.33
+Pasdaran_3_True_True:330000.0
+Abazar_3_True_True:216000.0
+Shahr-e-Ziba_2_True_False:63000.0
+Farmanieh_2_True_True:206666.67
+Ekhtiarieh_2_True_True:172666.67
+Gheitarieh_2_True_True:296666.67
+Gheitarieh_2_True_False:250000.0
+Shahr-e-Ziba_2_True_False:63000.0
+Pirouzi_2_True_True:135300.0
+Pirouzi_2_True_True:60000.0
+Lavasan_5_True_False:2833333.33
+Lavasan_5_True_False:1833333.33
+Pirouzi_1_True_True:61666.67
+Ostad Moein_2_True_True:71666.67
+Pirouzi_1_True_False:29333.33
+East Ferdows Boulevard_3_True_True:312000.0
+East Ferdows Boulevard_3_True_True:328000.0
+East Ferdows Boulevard_3_True_True:482800.0
+Shahr-e-Ziba_2_True_True:113333.33
+Shahr-e-Ziba_2_True_False:63000.0
+Niavaran_3_True_True:1850000.0
+Ostad Moein_3_True_True:100000.0
+Majidieh_2_True_True:83333.33
+Shahr-e-Ziba_2_True_False:63000.0
+Parastar_1_False_True:42333.33
+Shahr-e-Ziba_1_False_False:66333.33
+Jeyhoon_2_True_True:60566.67
+Pirouzi_1_True_True:81666.67
+Pardis_2_True_True:33333.33
+Saadat Abad_2_True_True:256666.67
+Pardis_2_True_True:64333.33
+Pardis_2_True_True:19500.0
+Saadat Abad_3_True_True:416666.67
+Pardis_2_True_True:33000.0
+Northern Janatabad_2_False_False:73333.33
+Parastar_2_True_True:76666.67
+North Program Organization_3_True_True:139666.67
+Shahr-e-Ziba_2_True_True:136633.33
+Shahr-e-Ziba_3_True_True:150000.0
+Aqdasieh_3_True_True:1216666.67
+Parastar_2_True_False:67666.67
+Pakdasht_3_True_True:40833.33
+Shahr-e-Ziba_2_True_True:128000.0
+Heravi_3_True_True:286666.67
+Farmanieh_3_True_True:1850000.0
+Gheitarieh_2_True_True:208800.0
+Gheitarieh_2_True_True:208800.0
+Gheitarieh_2_True_True:206666.67
+Shahran_1_True_True:61666.67
+East Ferdows Boulevard_2_True_True:123333.33
+West Ferdows Boulevard_2_True_True:123333.33
+Pardis_2_True_True:64333.33
+Southern Chitgar_2_True_True:108333.33
+Karimkhan_3_True_True:260000.0
+Railway_2_True_True:220000.0
+Southern Janatabad_2_True_True:150000.0
+West Ferdows Boulevard_2_True_True:73333.33
+Rudhen_3_True_True:75333.33
+Si Metri Ji_2_True_True:54433.33
+Pardis_1_True_True:22666.67
+Rudhen_2_True_True:74800.0
+Abazar_2_True_True:186666.67
+Abazar_2_True_True:150000.0
+Abazar_2_True_True:173333.33
+Abazar_2_True_True:208333.33
+East Ferdows Boulevard_3_True_True:153333.33
+Karoon_1_True_True:52333.33
+Northern Chitgar_1_True_True:9833.33
+Jeyhoon_2_True_True:63333.33
+Jeyhoon_2_False_True:58333.33
+Jeyhoon_1_True_True:50000.0
+Feiz Garden_1_True_True:62666.67
+Pirouzi_2_True_True:104333.33
+Feiz Garden_2_True_False:65333.33
+Punak_2_True_True:107666.67
+Pardis_2_True_True:23000.0
+Central Janatabad_2_True_True:116000.0
+Farmanieh_3_True_True:1166666.67
+Pardis_2_True_True:25333.33
+Shahran_2_True_True:118333.33
+East Pars_2_True_True:96390.0
+Feiz Garden_2_True_True:86666.67
+Northern Chitgar_2_True_True:15166.67
+Andisheh_3_True_True:53333.33
+Shahran_1_True_True:61666.67
+Shahran_1_True_False:67333.33
+Pardis_2_True_False:43333.33
+Pardis_2_True_True:20333.33
+Pardis_2_True_False:62333.33
+Pardis_2_True_True:24666.67
+Pardis_2_True_True:26000.0
+Pirouzi_2_True_True:100000.0
+Pardis_2_True_True:23833.33
+Farmanieh_3_True_True:604833.33
+Salsabil_2_True_True:69766.67
+Farmanieh_3_True_True:1222000.0
+Niavaran_2_True_True:1000000.0
+Farmanieh_3_True_True:770000.0
+Pardis_2_True_True:21666.67
+Kook_2_True_True:238000.0
+Moniriyeh_2_True_True:68233.33
+Saadat Abad_2_True_True:106666.67
+Northern Janatabad_2_True_True:103333.33
+Zaferanieh_3_True_True:393333.33
+Air force_2_False_False:55000.0
+Air force_2_True_True:133000.0
+Saadat Abad_4_True_True:1333333.33
+Saadat Abad_2_True_True:226666.67
+Sohanak_3_True_True:248266.67
+Saadat Abad_1_True_False:108333.33
+Lavizan_1_False_True:88333.33
+Gheitarieh_2_True_True:273333.33
+Ekhtiarieh_3_True_True:280000.0
+Saadat Abad_3_True_True:400000.0
+Southern Janatabad_1_True_True:115000.0
+Ekhtiarieh_3_True_True:500000.0
+Narmak_2_True_True:83666.67
+Shahr-e-Ziba_2_True_False:62666.67
+Aqdasieh_3_True_True:420000.0
+Saadat Abad_2_True_True:173333.33
+West Ferdows Boulevard_1_True_True:119000.0
+Pasdaran_2_True_True:366666.67
+Andisheh_2_True_True:63333.33
+Narmak_3_True_True:280000.0
+Qasr-od-Dasht_2_True_True:66666.67
+Persian Gulf Martyrs Lake_2_True_True:33333.33
+Punak_1_True_True:88333.33
+Punak_2_True_True:140000.0
+Gheitarieh_3_True_True:800000.0
+Punak_1_True_True:75000.0
+Punak_2_True_True:93333.33
+Punak_2_True_True:140000.0
+Pardis_2_True_True:18333.33
+Central Janatabad_2_True_True:120000.0
+Qalandari_3_True_True:433333.33
+Jeyhoon_2_True_False:50000.0
+Saadat Abad_3_True_True:382500.0
+Pirouzi_1_False_False:42000.0
+Pardis_2_True_True:18000.0
+Pardis_2_True_True:18333.33
+Zaferanieh_4_True_True:1400000.0
+Zaferanieh_3_True_True:333333.33
+Velenjak_2_True_True:316666.67
+Zaferanieh_2_True_True:366666.67
+Pardis_2_True_True:18666.67
+Zaferanieh_2_True_True:1066666.67
+Zaferanieh_3_True_True:493333.33
+Zaferanieh_3_True_True:633333.33
+Zaferanieh_3_True_True:990000.0
+Pardis_2_True_True:18000.0
+Ostad Moein_2_True_True:110333.33
+Pardis_2_True_True:18333.33
+Northern Janatabad_2_True_False:108333.33
+Gheitarieh_2_True_True:261000.0
+Kamranieh_2_True_True:290000.0
+Punak_2_True_True:78333.33
+Southern Janatabad_2_True_True:176666.67
+Farmanieh_3_True_True:623333.33
+Ekhtiarieh_3_True_True:643333.33
+Pasdaran_3_True_True:733333.33
+Pasdaran_3_True_True:433333.33
+Central Janatabad_2_True_True:155000.0
+Central Janatabad_2_True_True:150000.0
+Niavaran_5_True_True:1798333.33
+Saadat Abad_2_True_True:190000.0
+Ekhtiarieh_3_True_True:298666.67
+Saadat Abad_2_True_True:280000.0
+Southern Janatabad_2_True_True:106666.67
+Saadat Abad_2_True_True:130000.0
+East Ferdows Boulevard_3_True_True:317166.67
+Southern Janatabad_2_True_True:105000.0
+Saadat Abad_2_True_True:130000.0
+Central Janatabad_1_True_True:106666.67
+West Ferdows Boulevard_2_True_True:73333.33
+East Ferdows Boulevard_2_True_True:90000.0
+Pardis_2_True_True:63333.33
+Saadat Abad_2_True_True:188700.0
+West Ferdows Boulevard_2_True_False:125000.0
+West Ferdows Boulevard_2_True_True:91666.67
+Central Janatabad_2_True_True:141333.33
+Saadat Abad_4_True_True:500000.0
+Saadat Abad_4_True_True:516666.67
+Shahrake Gharb_3_True_True:405000.0
+Ekhtiarieh_3_True_True:400000.0
+Pardis_2_True_True:36666.67
+Pasdaran_3_True_True:370000.0
+Saadat Abad_2_True_True:133333.33
+Shahrake Gharb_2_True_True:160000.0
+Saadat Abad_2_True_True:173333.33
+Saadat Abad_3_True_True:290000.0
+Shahrake Gharb_2_True_True:420000.0
+Shahrake Gharb_3_True_True:493333.33
+Shahrake Qods_2_True_True:35000.0
+Pardis_2_True_True:66666.67
+Gheitarieh_3_True_True:300000.0
+Pirouzi_1_False_True:43333.33
+Ekhtiarieh_1_True_True:130000.0
+East Ferdows Boulevard_3_True_True:330000.0
+Shahrake Qods_2_True_True:39370.0
+Shahrake Qods_2_True_True:38360.0
+Shahrake Qods_2_False_True:33733.33
+Shahrake Qods_2_True_True:45500.0
+Central Janatabad_2_True_False:80000.0
+Ekhtiarieh_2_True_True:183333.33
+Pasdaran_3_True_True:360000.0
+Pasdaran_3_True_True:253333.33
+Shahran_1_True_True:69333.33
+Gheitarieh_3_True_True:416666.67
+Farmanieh_3_True_True:735000.0
+Northern Janatabad_2_True_True:138000.0
+Persian Gulf Martyrs Lake_1_True_True:9833.33
+Gheitarieh_3_True_True:310000.0
+Pardis_2_True_True:26500.0
+Heravi_2_True_True:183333.33
+Heravi_2_True_True:234666.67
+Abazar_3_True_True:313333.33
+Gheitarieh_3_True_True:466666.67
+Central Janatabad_2_True_False:69333.33
+Amirieh_2_True_True:67466.67
+Niavaran_3_True_True:823333.33
+Central Janatabad_1_True_False:72666.67
+Niavaran_3_True_True:573333.33
+Gheitarieh_3_True_True:883333.33
+Pardis_2_True_True:22333.33
+Pardis_3_True_True:21000.0
+Pardis_2_True_True:31833.33
+Pardis_3_True_True:16666.67
+Pardis_2_True_True:32666.67
+Shahr-e-Ziba_2_True_True:68333.33
+Shahrake Gharb_2_True_True:433333.33
+Shahrake Gharb_3_True_True:616666.67
+Heravi_3_True_True:251366.67
+Velenjak_3_True_True:356666.67
+Zaferanieh_4_True_True:866666.67
+Zaferanieh_3_True_True:366666.67
+Pirouzi_1_False_True:42500.0
+Pardis_2_True_True:16333.33
+Dehkade Olampic_2_True_True:145000.0
+Jeyhoon_2_True_True:76000.0
+Jeyhoon_2_True_True:75000.0
+Komeil_2_True_True:65933.33
+Punak_2_True_True:140000.0
+Valiasr_2_True_True:67466.67
+Amir Bahador_2_True_True:71300.0
+Amirieh_2_True_True:54333.33
+Saadat Abad_3_True_True:326666.67
+Central Janatabad_2_True_True:133333.33
+Shahran_2_True_True:116666.67
+Aqdasieh_2_True_True:233333.33
+Central Janatabad_1_True_True:103333.33
+West Ferdows Boulevard_1_True_True:81666.67
+East Ferdows Boulevard_1_True_False:64000.0
+Ostad Moein_1_False_False:40000.0
+Punak_1_True_False:63333.33
+Dehkade Olampic_3_True_True:146666.67
+Kook_2_True_True:119333.33
+Azadshahr_2_True_True:125000.0
+East Ferdows Boulevard_2_True_True:95000.0
+Persian Gulf Martyrs Lake_3_True_True:125000.0
+Northern Janatabad_2_True_True:101666.67
+Azadshahr_2_True_True:150000.0
+Railway_2_True_False:150666.67
+Zibadasht_2_True_True:145000.0
+Persian Gulf Martyrs Lake_3_True_True:283333.33
+Punak_1_True_True:110000.0
+Persian Gulf Martyrs Lake_3_True_True:278333.33
+Persian Gulf Martyrs Lake_2_True_True:150000.0
+Persian Gulf Martyrs Lake_4_True_True:170000.0
+Shahr-e-Ziba_2_True_True:99000.0
+Parand_2_True_True:15333.33
+East Ferdows Boulevard_2_True_True:105000.0
+Ostad Moein_1_True_False:36333.33
+Jeyhoon_1_True_True:27000.0
+Shahran_2_True_True:106666.67
+Salsabil_1_True_True:66666.67
+Dehkade Olampic_2_True_True:34500.0
+Komeil_1_True_False:36333.33
+Northern Chitgar_2_True_True:34500.0
+Shahrake Gharb_3_True_True:333333.33
+Southern Chitgar_2_True_True:34500.0
+Islamshahr_2_True_False:41500.0
+Persian Gulf Martyrs Lake_2_True_True:34500.0
+Shahran_2_True_True:88333.33
+Central Janatabad_2_True_True:90000.0
+Shahr-e-Ziba_3_True_True:120000.0
+Shahran_2_True_True:130000.0
+Shahrake Qods_3_True_True:50333.33
+Pasdaran_3_True_True:538666.67
+Pardis_2_True_True:16666.67
+Pardis_2_True_True:20000.0
+Pardis_2_True_True:25000.0
+Pardis_2_True_True:20000.0
+Central Janatabad_2_True_True:110000.0
+Farmanieh_3_True_True:666666.67
+Andisheh_1_True_False:15000.0
+Pardis_2_True_True:19000.0
+Zaferanieh_2_True_True:223333.33
+Southern Janatabad_2_True_True:98333.33
+Andisheh_1_True_True:11666.67
+North Program Organization_1_True_True:91666.67
+Amirabad_2_True_True:153000.0
+East Ferdows Boulevard_2_True_True:110000.0
+Niavaran_3_True_True:666666.67
+Dorous_2_True_True:140000.0
+Gheitarieh_3_True_True:249500.0
+Dezashib_2_True_True:375000.0
+Pasdaran_2_True_True:306666.67
+Karoon_1_False_False:28333.33
+Salsabil_1_True_True:50000.0
+Pardis_2_True_True:2000.0
+Andisheh_5_True_False:366666.67
+Andisheh_4_True_False:183333.33
+Heravi_3_True_True:460000.0
+Elahieh_3_True_True:383333.33
+Pardis_2_True_True:30000.0
+Dezashib_3_True_True:410000.0
+Narmak_1_True_False:58333.33
+Heravi_2_True_True:203333.33
+Andisheh_1_True_False:24333.33
+Dorous_3_True_True:433333.33
+Ekhtiarieh_5_True_True:616666.67
+Farmanieh_3_True_True:766666.67
+Heravi_3_True_True:265000.0
+West Ferdows Boulevard_1_True_True:68333.33
+Shahran_1_True_True:65000.0
+Farmanieh_3_True_True:270000.0
+Pirouzi_1_True_True:40000.0
+Parand_2_True_False:28333.33
+Shahrake Qods_2_False_False:19333.33
+Andisheh_2_True_False:32000.0
+Punak_2_True_True:216666.67
+Heravi_3_True_True:315000.0
+Heravi_2_True_True:201666.67
+Heravi_3_True_True:216666.67
+Gheitarieh_4_True_True:466666.67
+Saadat Abad_2_True_True:266000.0
+Heravi_3_True_True:200000.0
+Pardis_2_True_True:21666.67
+Salsabil_2_True_False:36666.67
+Ozgol_3_True_True:210000.0
+Zargandeh_3_True_True:300000.0
+Saadat Abad_2_True_True:263333.33
+Mirdamad_2_True_True:126500.0
+Punak_2_True_True:223333.33
+Abbasabad_2_True_True:133333.33
+Ostad Moein_1_True_True:53333.33
+Amirabad_3_True_False:66666.67
+Andisheh_2_True_False:36990.0
+Andisheh_2_True_True:41666.67
+Kahrizak_2_True_True:53600.0
+Parand_2_False_True:10500.0
+Andisheh_1_True_False:19500.0
+Qasr-od-Dasht_2_True_True:108333.33
+Shahrake Gharb_3_True_True:310000.0
+Shahran_2_True_False:61666.67
+Amirieh_2_True_True:73666.67
+Karoon_2_True_True:80000.0
+Shahran_2_True_True:105666.67
+Karoon_2_False_False:36666.67
+Karoon_2_False_False:36666.67
+Shahran_2_True_True:106666.67
+Punak_2_True_True:156666.67
+Punak_2_True_False:91000.0
+Shahran_3_True_True:185000.0
+Farmanieh_2_True_True:198333.33
+Farmanieh_2_True_True:206666.67
+Feiz Garden_2_True_True:70000.0
+Punak_1_True_True:66666.67
+Razi_2_True_True:46333.33
+Razi_2_True_True:52466.67
+Razi_2_True_True:57066.67
+Feiz Garden_3_True_True:141000.0
+Heravi_2_True_True:110000.0
+Niavaran_3_True_True:1083333.33
+Heravi_3_True_True:226666.67
+Pardis_2_True_True:16666.67
+Shahr-e-Ziba_2_True_True:105000.0
+Parand_2_True_True:38333.33
+East Pars_2_True_True:85833.33
+Pasdaran_2_True_True:183333.33
+Pasdaran_2_True_True:115000.0
+Narmak_2_True_True:101666.67
+Beryanak_3_True_True:93333.33
+Islamshahr_1_True_False:15333.33
+Andisheh_4_True_False:190000.0
+Damavand_2_True_False:233333.33
+Parand_2_False_False:14666.67
+Shahr-e-Ziba_1_True_True:69333.33
+Parand_3_True_False:43333.33
+East Ferdows Boulevard_1_True_True:63333.33
+Qalandari_3_True_True:250000.0
+Qalandari_2_True_True:156666.67
+Gheitarieh_3_True_True:326666.67
+Punak_3_True_True:210000.0
+Qalandari_2_True_True:208333.33
+Qalandari_2_True_True:150000.0
+Qalandari_2_True_True:270000.0
+Ekhtiarieh_5_True_False:2720000.0
+Shahr-e-Ziba_1_True_True:78333.33
+Saadat Abad_1_True_True:120000.0
+Gheitarieh_3_True_True:466666.67
+Gheitarieh_3_True_True:386666.67
+Jordan_3_True_True:296666.67
+East Ferdows Boulevard_1_True_True:61000.0
+Jordan_3_True_True:256666.67
+Jordan_3_True_True:290000.0
+Shahr-e-Ziba_2_True_True:80000.0
+Pardis_2_True_True:17133.33
+East Ferdows Boulevard_1_True_True:66666.67
+Mahmoudieh_5_True_True:2500000.0
+Punak_2_True_True:70000.0
+Persian Gulf Martyrs Lake_1_True_True:63333.33
+West Ferdows Boulevard_2_True_False:65000.0
+West Ferdows Boulevard_2_True_True:140000.0
+Central Janatabad_2_True_True:120666.67
+Air force_3_True_True:249133.33
+Southern Janatabad_1_True_False:57333.33
+Shahedshahr_1_True_False:100000.0
+Punak_3_True_True:253333.33
+Punak_3_True_True:166666.67
+Shahrake Gharb_3_True_True:281666.67
+Qasr-od-Dasht_1_False_False:31666.67
+Shahr-e-Ziba_2_True_True:105333.33
+Pardis_2_True_True:24200.0
+Komeil_2_False_True:35000.0
+Shahr-e-Ziba_2_True_True:95666.67
+Jeyhoon_2_True_True:71666.67
+Punak_3_True_True:143333.33
+Shahrake Gharb_3_True_True:310000.0
+Ekbatan_2_True_True:131333.33
+Gheitarieh_3_True_True:507500.0
+Shahran_2_True_True:156666.67
+Ekhtiarieh_2_True_True:110000.0
+Pasdaran_2_True_False:113333.33
+Punak_3_True_True:251666.67
+Feiz Garden_1_True_True:81666.67
+Southern Janatabad_3_True_True:166666.67
+Pakdasht_3_True_True:58333.33
+Shahrake Gharb_3_True_True:416666.67
+Saadat Abad_2_True_True:293333.33
+Andisheh_2_True_False:31333.33
+Shahrake Gharb_3_True_True:333333.33
+Andisheh_2_True_False:37000.0
+Andisheh_3_True_True:53000.0
+Gheitarieh_2_True_True:184800.0
+Shahran_2_True_True:136666.67
+Shahr-e-Ziba_3_True_True:180000.0
+Southern Janatabad_2_True_True:80000.0
+Parand_2_False_True:12966.67
+Pasdaran_2_True_True:166666.67
+Central Janatabad_1_True_True:116666.67
+Qasr-od-Dasht_1_False_False:36666.67
+Southern Chitgar_3_True_True:49466.67
+Gheitarieh_3_True_True:863333.33
+Gheitarieh_2_True_True:270000.0
+Kahrizak_3_True_True:41400.0
+Andisheh_1_True_False:12666.67
+Niavaran_3_True_False:1500000.0
+Salsabil_1_True_False:33166.67
+Pirouzi_2_True_False:51666.67
+Marzdaran_3_True_True:173333.33
+Pirouzi_1_True_True:46000.0
+Northern Janatabad_2_True_True:106666.67
+Islamshahr_2_True_True:18833.33
+Islamshahr_2_True_False:18333.33
+Pirouzi_1_True_False:28333.33
+Pirouzi_2_True_True:92000.0
+Shahran_2_True_True:155000.0
+East Ferdows Boulevard_3_True_True:130000.0
+Pardis_2_False_True:18333.33
+West Ferdows Boulevard_2_True_False:80000.0
+Yaftabad_2_True_True:41666.67
+Gheitarieh_3_True_True:511666.67
+Yaftabad_2_True_True:41666.67
+Ray_1_True_True:25000.0
+West Ferdows Boulevard_2_True_True:88333.33
+East Ferdows Boulevard_1_True_True:71666.67
+Shahr-e-Ziba_2_True_True:126666.67
+East Ferdows Boulevard_2_True_True:116666.67
+Jeyhoon_3_True_True:77666.67
+East Ferdows Boulevard_1_True_True:68333.33
+Andisheh_2_True_False:29000.0
+Ostad Moein_2_True_True:120000.0
+Shahrake Qods_1_False_False:18666.67
+East Ferdows Boulevard_2_True_True:140000.0
+West Ferdows Boulevard_1_True_False:65000.0
+East Ferdows Boulevard_2_True_True:78333.33
+West Ferdows Boulevard_1_True_False:63333.33
+West Ferdows Boulevard_2_True_False:81666.67
+Shahran_2_True_True:166666.67
+East Ferdows Boulevard_2_True_True:116666.67
+East Ferdows Boulevard_1_True_True:66000.0
+East Ferdows Boulevard_1_True_True:69333.33
+Central Janatabad_2_True_True:123333.33
+West Ferdows Boulevard_1_True_True:63333.33
+Central Janatabad_2_True_False:70000.0
+East Ferdows Boulevard_1_True_True:64000.0
+Mehran_2_True_False:83333.33
+West Ferdows Boulevard_1_True_True:76666.67
+West Ferdows Boulevard_2_True_False:76666.67
+East Ferdows Boulevard_2_True_False:76000.0
+Northren Jamalzadeh_2_True_True:120000.0
+West Ferdows Boulevard_1_True_True:65000.0
+Shahr-e-Ziba_1_True_True:61666.67
+East Ferdows Boulevard_1_True_True:68333.33
+Shahr-e-Ziba_2_True_True:78333.33
+West Ferdows Boulevard_2_True_True:115000.0
+Nasim Shahr_3_False_True:43333.33
+East Ferdows Boulevard_1_True_True:64000.0
+West Ferdows Boulevard_2_True_True:83333.33
+Shahr-e-Ziba_1_True_True:61666.67
+East Ferdows Boulevard_2_True_True:173333.33
+West Ferdows Boulevard_2_True_True:115000.0
+Persian Gulf Martyrs Lake_2_True_True:139000.0
+Persian Gulf Martyrs Lake_2_True_True:108333.33
+East Ferdows Boulevard_1_True_False:60000.0
+Feiz Garden_1_True_True:70666.67
+East Ferdows Boulevard_1_True_True:59333.33
+East Ferdows Boulevard_2_True_True:75000.0
+Persian Gulf Martyrs Lake_3_True_True:116666.67
+Golestan_2_True_True:71666.67
+East Ferdows Boulevard_1_True_True:62000.0
+Southern Program Organization_2_True_False:106666.67
+Shahr-e-Ziba_1_True_True:62666.67
+Golestan_2_True_True:110000.0
+Feiz Garden_1_True_True:66666.67
+North Program Organization_2_True_True:108333.33
+Azarbaijan_2_True_True:65000.0
+Pardis_1_False_True:15666.67
+Pirouzi_2_True_True:85166.67
+Pirouzi_2_False_True:65666.67
+Pirouzi_3_True_True:170000.0
+Pirouzi_2_True_True:125400.0
+Ostad Moein_2_True_True:52833.33
+Pardis_1_False_True:18000.0
+Pirouzi_3_True_True:133333.33
+Gheitarieh_3_True_True:454166.67
+Dezashib_3_True_True:623833.33
+Koohsar_2_True_True:133333.33
+Tenant_3_True_True:135000.0
+Shams Abad_3_True_True:155333.33
+Central Janatabad_2_True_False:106666.67
+Southern Janatabad_2_True_True:220833.33
+Gheitarieh_3_True_True:516666.67
+East Ferdows Boulevard_1_True_True:76666.67
+Persian Gulf Martyrs Lake_3_True_True:103333.33
+Persian Gulf Martyrs Lake_3_True_True:103333.33
+Persian Gulf Martyrs Lake_2_True_True:110000.0
+Shahran_2_True_True:71666.67
+Andisheh_1_True_True:13333.33
+Persian Gulf Martyrs Lake_2_True_True:93333.33
+Shahr-e-Ziba_1_True_True:74666.67
+Golestan_2_True_True:63333.33
+Southern Janatabad_2_True_True:97333.33
+Parand_2_True_True:17333.33
+Pardis_2_True_True:17833.33
+Saadat Abad_3_True_True:366666.67
+Punak_3_True_True:299666.67
+Punak_3_True_True:206666.67
+Ostad Moein_2_True_True:52666.67
+Persian Gulf Martyrs Lake_3_True_True:121666.67
+Persian Gulf Martyrs Lake_2_True_True:108333.33
+Chardangeh_2_False_True:40000.0
+Central Janatabad_2_True_True:149333.33
+Persian Gulf Martyrs Lake_2_True_True:111666.67
+Ostad Moein_2_True_True:86666.67
+Fallah_1_False_True:30000.0
+Fallah_1_True_True:62500.0
+West Ferdows Boulevard_1_True_True:65000.0
+Persian Gulf Martyrs Lake_2_True_True:83333.33
+Fallah_2_True_True:50333.33
+Persian Gulf Martyrs Lake_3_True_True:191666.67
+Eskandari_1_False_False:35000.0
+Persian Gulf Martyrs Lake_2_True_True:120000.0
+Persian Gulf Martyrs Lake_2_True_True:116666.67
+Persian Gulf Martyrs Lake_2_True_True:109000.0
+Gheitarieh_2_True_True:246666.67
+Persian Gulf Martyrs Lake_2_True_True:120000.0
+Gholhak_2_True_True:280000.0
+Central Janatabad_2_True_True:90000.0
+North Program Organization_2_True_True:150666.67
+Gheitarieh_2_True_True:230000.0
+Ray_2_False_True:52333.33
+Ostad Moein_2_True_True:65666.67
+Punak_2_True_True:86000.0
+Ostad Moein_3_True_True:175000.0
+Dorous_4_True_True:1581666.67
+Pasdaran_3_True_True:516666.67
+West Ferdows Boulevard_1_True_True:65000.0
+Saadat Abad_2_True_True:160000.0
+Marzdaran_3_True_True:341000.0
+Central Janatabad_2_True_True:169333.33
+Shahr-e-Ziba_2_True_True:96666.67
+Marzdaran_3_True_True:433333.33
+Ostad Moein_1_True_True:53333.33
+Marzdaran_3_True_True:379166.67
+Marzdaran_3_True_True:283333.33
+Marzdaran_3_True_True:206666.67
+Southern Program Organization_1_True_True:66000.0
+Pardis_2_True_True:17833.33
+Mahallati_2_True_True:233333.33
+Pardis_3_True_True:20333.33
+Elahieh_3_True_True:1173333.33
+Elahieh_4_True_True:1283333.33
+Shahrakeh Naft_2_True_True:183333.33
+Niavaran_2_True_True:416666.67
+Punak_3_True_True:251666.67
+West Ferdows Boulevard_1_True_False:65000.0
+Shahran_2_True_True:110000.0
+Niavaran_3_True_True:543333.33
+Ajudaniye_2_True_True:216666.67
+Shahrake Gharb_3_True_True:413333.33
+Niavaran_3_True_True:500000.0
+Qazvin Imamzadeh Hassan_2_True_True:48333.33
+West Pars_3_True_True:333333.33
+Abazar_2_True_True:223333.33
+Persian Gulf Martyrs Lake_2_True_True:78333.33
+Shahran_3_True_True:186666.67
+Northern Janatabad_2_True_True:130000.0
+Parand_3_True_True:14166.67
+Pardis_2_True_True:31333.33
+Ostad Moein_2_True_True:109333.33
+Shahr-e-Ziba_2_True_True:100000.0
+Farmanieh_3_True_True:383333.33
+Marzdaran_3_True_True:247500.0
+Feiz Garden_2_True_True:122333.33
+Southern Janatabad_2_True_True:116666.67
+Southern Janatabad_2_True_True:60000.0
+Qazvin Imamzadeh Hassan_2_True_True:51666.67
+Shahrake Qods_1_True_False:29000.0
+Feiz Garden_3_True_True:186666.67
+North Program Organization_2_True_True:100000.0
+Southern Janatabad_2_True_True:150000.0
+Southern Program Organization_1_True_True:80000.0
+Punak_3_True_True:210000.0
+Pardis_2_True_True:24166.67
+Southern Janatabad_2_True_True:66666.67
+Southern Janatabad_2_True_True:90000.0
+Southern Janatabad_2_True_True:70000.0
+Southern Janatabad_2_True_True:73333.33
+Southern Janatabad_2_True_True:83333.33
+Gheitarieh_3_True_True:266666.67
+Gheitarieh_3_True_True:236666.67
+Southern Janatabad_2_True_True:70000.0
+West Ferdows Boulevard_2_True_False:73333.33
+Southern Janatabad_2_True_True:68333.33
+Jeyhoon_2_True_False:50000.0
+Northern Janatabad_2_True_False:130000.0
+Pardis_2_True_True:25666.67
+Persian Gulf Martyrs Lake_3_True_True:143333.33
+West Ferdows Boulevard_1_True_True:80000.0
+Qazvin Imamzadeh Hassan_2_True_True:50233.33
+Pardis_2_True_True:31666.67
+North Program Organization_1_True_True:63333.33
+Southern Program Organization_1_True_True:91666.67
+Pardis_3_True_True:20333.33
+West Ferdows Boulevard_2_True_True:110000.0
+West Ferdows Boulevard_2_True_True:79333.33
+Tehransar_2_False_False:66666.67
+Kook_3_True_True:131666.67
+Gheitarieh_2_True_True:200000.0
+Qazvin Imamzadeh Hassan_2_True_True:42500.0
+Jeyhoon_4_True_False:156666.67
+Northern Janatabad_2_True_True:148333.33
+Persian Gulf Martyrs Lake_3_True_True:160000.0
+Central Janatabad_2_True_True:119000.0
+Amirabad_2_True_False:150000.0
+Jeyhoon_1_True_False:34333.33
+Gheitarieh_2_True_False:229666.67
+Nawab_2_False_True:72833.33
+Gheitarieh_3_False_False:350000.0
+Qazvin Imamzadeh Hassan_2_True_True:40200.0
+Central Janatabad_1_True_True:111666.67
+Dorous_3_True_True:400000.0
+Shahrake Gharb_2_True_True:325000.0
+North Program Organization_2_True_True:114000.0
+Shahr-e-Ziba_2_True_True:136666.67
+Shahran_2_True_True:95000.0
+Southern Janatabad_2_True_True:186666.67
+Ostad Moein_1_True_True:50000.0
+Punak_2_True_False:75000.0
+Yousef Abad_3_True_True:291666.67
+Parand_3_True_True:68333.33
+Central Janatabad_2_True_True:143333.33
+Yousef Abad_5_True_False:450000.0
+Shahran_2_True_True:139333.33
+Amirabad_3_True_True:277333.33
+Shahran_2_True_True:113666.67
+Shahran_2_True_True:66000.0
+Shahran_2_True_True:80000.0
+Northern Suhrawardi_2_True_True:150000.0
+Heravi_3_True_True:525000.0
+Saadat Abad_3_True_True:283333.33
+Qazvin Imamzadeh Hassan_2_True_True:55966.67
+Saadat Abad_2_True_True:183333.33
+Shahrake Gharb_4_True_False:1166666.67
+Salsabil_2_True_True:58333.33
+Azarbaijan_2_True_True:69666.67
+Villa_2_True_True:137666.67
+Pardis_2_True_True:12500.0
+Pardis_2_True_True:18333.33
+Heravi_3_True_True:300000.0
+Pardis_2_True_True:29166.67
+Farmanieh_2_True_True:400000.0
+Hakimiyeh_2_True_True:103333.33
+Water Organization_2_True_True:126666.67
+Shahr-e-Ziba_2_False_True:110000.0
+Ostad Moein_1_True_True:42666.67
+West Ferdows Boulevard_1_False_False:63333.33
+Heravi_3_True_True:513333.33
+Nezamabad_3_True_True:110000.0
+Qazvin Imamzadeh Hassan_2_True_True:47333.33
+Jeyhoon_3_True_True:93333.33
+Pasdaran_2_True_True:256666.67
+Qasr-od-Dasht_3_True_True:98333.33
+West Ferdows Boulevard_2_True_True:116666.67
+Southern Program Organization_2_True_True:141666.67
+Ajudaniye_3_True_True:1000000.0
+Ozgol_3_True_True:600000.0
+Shahran_1_True_True:61666.67
+Shahran_2_True_True:118333.33
+Pardis_2_True_True:36666.67
+Shahran_2_True_True:79333.33
+Shahran_1_True_False:46333.33
+Tajrish_2_True_True:273333.33
+North Program Organization_2_True_True:97666.67
+Shahran_1_True_True:74000.0
+Central Janatabad_2_True_True:116000.0
+Yousef Abad_2_True_True:190000.0
+Zaferanieh_3_True_True:1200000.0
+Shahr-e-Ziba_2_True_True:90000.0
+Southern Program Organization_1_True_True:72333.33
+Pasdaran_2_True_True:223333.33
+Pasdaran_3_True_True:330000.0
+Central Janatabad_2_True_True:105000.0
+Saadat Abad_1_True_True:110000.0
+East Ferdows Boulevard_2_True_True:113333.33
+Northern Janatabad_2_True_True:170000.0
+Garden of Saba_2_True_True:250000.0
+Farmanieh_1_True_True:186666.67
+West Ferdows Boulevard_2_True_True:146666.67
+Pasdaran_2_True_True:116666.67
+West Ferdows Boulevard_2_True_True:94333.33
+Pasdaran_3_True_True:176666.67
+Punak_1_False_True:76666.67
+Ostad Moein_0_False_False:21666.67
+Yousef Abad_3_True_True:266666.67
+Pasdaran_3_True_False:266666.67
+Ostad Moein_2_True_True:52833.33
+Southern Janatabad_1_True_True:81000.0
+Central Janatabad_2_True_True:113333.33
+Southern Janatabad_2_True_True:130000.0
+Qalandari_2_True_True:218666.67
+Dezashib_2_True_True:375000.0
+Tarasht_2_True_True:71666.67
+Niavaran_3_True_True:566666.67
+Elahieh_3_True_True:1088000.0
+Feiz Garden_2_True_True:120000.0
+Andisheh_1_True_False:16666.67
+Shahr-e-Ziba_2_True_True:107333.33
+Feiz Garden_2_True_True:120000.0
+Feiz Garden_2_True_True:126666.67
+East Ferdows Boulevard_2_True_True:84333.33
+Shahrake Gharb_3_True_True:400000.0
+Pasdaran_3_True_True:270000.0
+Saadat Abad_2_True_True:286666.67
+West Ferdows Boulevard_2_True_True:80000.0
+West Ferdows Boulevard_2_True_True:103333.33
+Dorous_2_True_True:333333.33
+West Ferdows Boulevard_2_True_True:131666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Shahr-e-Ziba_3_True_True:156666.67
+West Ferdows Boulevard_2_True_True:126666.67
+Punak_2_True_True:125000.0
+West Ferdows Boulevard_2_True_True:131666.67
+Central Janatabad_2_True_True:190000.0
+Shahr-e-Ziba_2_True_True:170000.0
+Ostad Moein_1_True_True:42666.67
+Shahrake Gharb_3_True_True:306666.67
+Southern Janatabad_2_True_False:70433.33
+Southern Janatabad_2_True_False:70266.67
+Dezashib_3_True_True:410833.33
+Northern Janatabad_2_True_False:79500.0
+Yousef Abad_2_True_True:210000.0
+Si Metri Ji_2_True_True:74000.0
+Ekhtiarieh_2_True_True:296333.33
+Ostad Moein_2_True_True:52833.33
+Yousef Abad_2_True_True:130666.67
+Parand_3_True_True:42000.0
+Parand_3_True_False:46666.67
+Shahrake Gharb_2_True_True:250000.0
+Pardis_3_True_True:16666.67
+Shahrake Gharb_3_True_True:333333.33
+Punak_1_True_True:116666.67
+Punak_1_True_True:65000.0
+Feiz Garden_2_True_True:145000.0
+Yousef Abad_2_True_True:166666.67
+Jordan_3_True_True:306666.67
+Central Janatabad_2_True_False:55000.0
+Pardis_2_True_True:16666.67
+Punak_1_False_True:66666.67
+Ekhtiarieh_2_True_True:200000.0
+Feiz Garden_2_True_True:131666.67
+Feiz Garden_2_False_False:63333.33
+Andisheh_2_True_True:29866.67
+Southern Janatabad_2_True_True:86666.67
+Farmanieh_3_True_True:383333.33
+Punak_1_False_True:66666.67
+Pardis_2_True_True:16666.67
+Farmanieh_3_True_True:866666.67
+Yousef Abad_2_True_False:143333.33
+Niavaran_2_True_True:661500.0
+Qalandari_2_True_True:305000.0
+Saadat Abad_3_True_True:450000.0
+Gheitarieh_2_True_True:231933.33
+Andisheh_3_False_False:53333.33
+West Ferdows Boulevard_2_True_True:187200.0
+Shahr-e-Ziba_2_True_True:93333.33
+Razi_2_True_True:41000.0
+Southern Program Organization_2_True_True:105000.0
+Southern Program Organization_2_True_True:122666.67
+Gheitarieh_2_True_True:220000.0
+Qalandari_2_True_True:283333.33
+Azari_2_True_True:54666.67
+Shahran_1_True_True:63333.33
+Pardis_2_True_True:29666.67
+West Ferdows Boulevard_2_True_True:125000.0
+Central Janatabad_2_True_True:145666.67
+Pasdaran_3_True_True:321500.0
+Gholhak_2_True_True:206666.67
+Saadat Abad_3_True_True:173333.33
+Northern Janatabad_2_True_True:161666.67
+Saadat Abad_2_True_True:185000.0
+Pardis_2_True_True:26666.67
+Heravi_3_True_True:328333.33
+Pasdaran_3_True_True:330000.0
+Qazvin Imamzadeh Hassan_2_True_True:54000.0
+Pardis_2_True_True:25333.33
+Persian Gulf Martyrs Lake_3_True_True:42400.0
+Velenjak_4_True_True:1600000.0
+Yousef Abad_1_True_True:108333.33
+Dezashib_5_True_True:483333.33
+Pardis_2_True_True:26333.33
+Pasdaran_3_True_True:358333.33
+Central Janatabad_2_True_True:116666.67
+Central Janatabad_2_True_True:99966.67
+Mirdamad_5_True_False:1866666.67
+Southern Chitgar_3_True_True:166666.67
+Pardis_2_True_True:28666.67
+Shahrake Apadana_3_True_True:190000.0
+Punak_3_True_True:222333.33
+Elahieh_4_True_True:1055600.0
+Central Janatabad_2_True_False:80000.0
+Punak_3_True_True:380000.0
+Shahran_1_True_True:62666.67
+Punak_2_True_True:156666.67
+Yousef Abad_3_True_True:260000.0
+Dorous_3_True_True:286666.67
+Northern Janatabad_3_True_True:146666.67
+Central Janatabad_2_True_True:138333.33
+West Ferdows Boulevard_3_True_True:166666.67
+Pardis_2_True_True:25333.33
+Ekbatan_2_True_True:140000.0
+Gheitarieh_3_True_True:466666.67
+Heravi_3_True_True:303333.33
+East Ferdows Boulevard_2_True_True:93333.33
+Ekbatan_2_True_True:120000.0
+Niavaran_2_True_True:233333.33
+Niavaran_3_True_True:661933.33
+Saadat Abad_2_True_True:206666.67
+Northern Janatabad_2_False_False:106666.67
+Parand_2_True_True:23516.67
+Southern Program Organization_2_True_True:83333.33
+Niavaran_2_True_True:153333.33
+Pardis_2_False_True:16666.67
+Andisheh_3_True_True:51800.0
+Tarasht_2_True_True:103333.33
+Gheitarieh_2_True_True:400000.0
+North Program Organization_2_True_True:81666.67
+Garden of Saba_3_True_True:186266.67
+Ekbatan_1_True_True:103333.33
+Pardis_2_True_True:17966.67
+Shahran_2_True_True:106333.33
+Ostad Moein_2_True_True:86666.67
+Punak_1_True_False:75000.0
+Gholhak_2_True_True:163333.33
+Niavaran_3_True_True:483333.33
+Niavaran_3_True_True:666666.67
+Kamranieh_3_True_True:1116333.33
+Kamranieh_3_True_True:437333.33
+Niavaran_3_True_True:613333.33
+Pardis_2_True_True:26666.67
+Shahrake Qods_2_False_True:20666.67
+Shahrake Qods_2_True_True:26666.67
+Ekbatan_1_True_True:95000.0
+Pardis_2_True_True:25666.67
+Pirouzi_1_False_False:26333.33
+Gheitarieh_2_True_True:300000.0
+Amirabad_2_True_True:18333.33
+Zaferanieh_3_True_True:1439900.0
+Persian Gulf Martyrs Lake_3_True_True:58333.33
+Saadat Abad_2_True_True:190000.0
+Parand_2_False_False:15166.67
+Gheitarieh_2_True_True:240000.0
+Velenjak_3_True_True:650000.0
+Amirabad_3_True_True:183333.33
+Persian Gulf Martyrs Lake_2_True_True:43833.33
+Gheitarieh_2_True_True:243333.33
+Niavaran_4_True_True:2683333.33
+Niavaran_4_True_True:700000.0
+Pardis_2_True_True:29666.67
+Southern Janatabad_2_True_True:146666.67
+Southern Janatabad_2_True_True:133000.0
+Shahr-e-Ziba_2_True_True:138333.33
+Shahr-e-Ziba_2_True_True:101666.67
+West Ferdows Boulevard_2_True_True:115000.0
+Southern Janatabad_2_True_False:113333.33
+Southern Janatabad_2_True_True:73333.33
+Zaferanieh_2_True_True:575000.0
+Parand_2_True_True:7000.0
+Qazvin Imamzadeh Hassan_2_True_True:57066.67
+Aqdasieh_3_True_True:533333.33
+Niavaran_2_True_True:206666.67
+Ajudaniye_2_True_True:210000.0
+Parastar_1_False_False:34333.33
+Lavasan_3_False_False:900000.0
+Velenjak_4_True_True:1026666.67
+West Ferdows Boulevard_2_True_True:92000.0
+Ajudaniye_3_True_True:450000.0
+Islamshahr_2_True_False:93333.33
+Central Janatabad_2_True_True:128633.33
+Farmanieh_4_True_True:1233333.33
+Pirouzi_2_False_False:46000.0
+Aqdasieh_3_True_True:1166666.67
+Andisheh_3_True_True:49466.67
+Farmanieh_4_True_True:1200000.0
+Kahrizak_2_False_True:28750.0
+East Ferdows Boulevard_3_True_True:266666.67
+Abazar_2_True_True:188500.0
+Pirouzi_2_False_True:50000.0
+Pardis_2_True_True:17833.33
+West Ferdows Boulevard_3_True_True:288066.67
+Velenjak_3_True_True:1428000.0
+Punak_2_True_True:116666.67
+Qazvin Imamzadeh Hassan_2_True_True:61666.67
+Central Janatabad_2_True_True:150400.0
+Parastar_2_True_True:112000.0
+Parastar_2_False_False:42666.67
+Saadat Abad_3_True_True:226666.67
+Shahr-e-Ziba_2_True_False:63000.0
+Heravi_3_True_True:253333.33
+Punak_2_True_False:76000.0
+Amirabad_2_True_True:157666.67
+Persian Gulf Martyrs Lake_1_False_True:70000.0
+West Ferdows Boulevard_1_True_True:110000.0
+Persian Gulf Martyrs Lake_2_True_True:116666.67
+Hashemi_2_True_True:76666.67
+Hakimiyeh_2_True_True:119000.0
+Saadat Abad_2_True_False:416666.67
+Punak_2_True_True:90000.0
+Punak_2_True_True:216333.33
+Mirdamad_3_True_False:307933.33
+Railway_2_True_True:166666.67
+Persian Gulf Martyrs Lake_2_True_True:116666.67
+Pirouzi_2_True_True:60000.0
+Kook_3_True_True:433333.33
+Yousef Abad_2_True_True:286666.67
+Pirouzi_2_False_True:66666.67
+Narmak_2_True_True:183333.33
+Gisha_2_True_True:245000.0
+West Ferdows Boulevard_2_True_False:80000.0
+Pirouzi_1_False_True:46000.0
+Pirouzi_1_True_True:58333.33
+Pirouzi_2_True_True:81666.67
+Air force_2_True_True:100000.0
+Narmak_1_True_True:75000.0
+Araj_1_True_False:103333.33
+Niavaran_2_True_True:495000.0
+Mahmoudieh_4_True_True:566666.67
+Tenant_2_True_True:67666.67
+Kamranieh_1_True_True:236666.67
+Punak_3_True_True:311666.67
+Niavaran_3_True_True:466666.67
+North Program Organization_5_True_False:2000000.0
+Niavaran_4_True_True:1266666.67
+Saadat Abad_2_True_True:243333.33
+Punak_3_True_True:222000.0
+Tenant_2_True_True:77666.67
+Pasdaran_3_True_True:381866.67
+Pasdaran_2_True_True:350000.0
+Punak_2_True_True:110000.0
+Velenjak_3_True_True:1533333.33
+Pardis_3_True_True:22333.33
+Shahr-e-Ziba_2_True_True:156666.67
+Andisheh_3_True_False:113333.33
+Punak_2_True_True:99333.33
+Tenant_1_True_True:46000.0
+Shahr-e-Ziba_2_True_True:136666.67
+Saadat Abad_3_True_True:350000.0
+Pasdaran_2_True_True:333333.33
+Punak_2_True_True:188333.33
+Farmanieh_3_True_True:1233333.33
+Farmanieh_4_True_True:1133333.33
+Farmanieh_3_True_True:1166666.67
+Aqdasieh_3_True_True:1160000.0
+Damavand_3_True_False:128333.33
+Andisheh_1_False_False:11833.33
+Gheitarieh_3_True_True:296666.67
+Sadeghieh_3_True_True:180000.0
+Damavand_2_True_False:110000.0
+Gheitarieh_3_True_True:326666.67
+Andisheh_5_True_False:433333.33
+Pakdasht_2_True_True:40000.0
+Andisheh_5_True_False:366666.67
+Andisheh_5_True_False:366666.67
+Pardis_2_True_True:18333.33
+West Ferdows Boulevard_2_True_True:103333.33
+Heravi_3_True_True:300000.0
+Air force_2_True_True:97466.67
+Pasdaran_3_True_False:33333.33
+Kook_3_True_True:400000.0
+Velenjak_3_True_True:421666.67
+Gheitarieh_2_True_True:233333.33
+Gheitarieh_3_True_True:214000.0
+Pirouzi_2_True_True:89600.0
+Pardis_2_True_True:16000.0
+Persian Gulf Martyrs Lake_2_True_True:123000.0
+Pardis_3_True_True:21666.67
+Persian Gulf Martyrs Lake_2_True_True:126666.67
+West Pars_2_True_True:103333.33
+Shahran_1_False_False:52666.67
+East Ferdows Boulevard_1_True_False:64000.0
+Pardis_2_True_True:63333.33
+Shahran_1_True_True:81666.67
+East Ferdows Boulevard_2_True_True:79333.33
+East Ferdows Boulevard_2_True_True:86666.67
+Gheitarieh_1_True_True:140833.33
+Rudhen_2_True_True:51666.67
+Aqdasieh_1_True_False:116666.67
+Velenjak_3_False_False:523333.33
+Jeyhoon_1_False_True:35000.0
+Pakdasht_3_False_False:30333.33
+Punak_1_True_True:95000.0
+Rudhen_2_True_True:33333.33
+Rudhen_2_True_False:25000.0
+Farmanieh_1_False_True:84333.33
+Rudhen_2_False_True:52666.67
+Abazar_2_True_True:186666.67
+Abazar_2_True_True:223333.33
+Shahrake Qods_2_True_True:24500.0
+Andisheh_3_True_True:100000.0
+Abazar_2_True_True:186666.67
+Abazar_2_True_True:113333.33
+Shahrake Qods_2_False_False:22166.67
+Andisheh_2_True_False:60000.0
+Shahrake Qods_2_False_True:25333.33
+Abazar_2_True_True:100000.0
+Southern Janatabad_2_True_True:120000.0
+Northern Janatabad_2_False_False:86666.67
+Heravi_3_True_True:498333.33
+Air force_2_True_True:140000.0
+Aqdasieh_3_True_True:666666.67
+Abazar_2_True_True:126666.67
+Gheitarieh_2_True_True:276666.67
+Gheitarieh_5_True_True:1166666.67
+Abazar_2_True_True:150000.0
+Karoon_1_False_True:29333.33
+Gheitarieh_2_True_True:400000.0
+Jeyhoon_1_True_False:25000.0
+Dehkade Olampic_2_True_True:161333.33
+Jeyhoon_2_True_True:50000.0
+Ostad Moein_3_True_True:133333.33
+Jeyhoon_1_False_False:34000.0
+West Ferdows Boulevard_2_True_True:76666.67
+Andisheh_2_True_True:36666.67
+Jeyhoon_2_True_True:53333.33
+Qasr-od-Dasht_1_True_True:43333.33
+Amirabad_2_True_True:169333.33
+Dorous_2_True_True:140000.0
+Vahidieh_1_True_True:32500.0
+Shahran_2_True_True:143333.33
+Punak_2_True_True:96666.67
+Punak_2_True_True:141666.67
+West Ferdows Boulevard_2_True_True:73333.33
+Punak_2_True_True:108333.33
+Punak_2_True_True:90000.0
+Punak_2_True_True:118333.33
+Shahrake Qods_2_True_True:53666.67
+Shahr-e-Ziba_2_True_True:91666.67
+East Ferdows Boulevard_2_True_True:131666.67
+Andisheh_2_True_True:40000.0
+Punak_2_True_True:68333.33
+Parand_2_False_True:16166.67
+Pasdaran_3_True_True:48333.33
+Malard_2_False_False:8333.33
+Gholhak_3_True_True:261666.67
+Ostad Moein_3_True_True:97000.0
+Tehransar_2_False_False:66666.67
+Feiz Garden_2_True_True:70666.67
+Jeyhoon_2_True_True:75000.0
+Gheitarieh_2_True_True:416666.67
+Shahran_2_True_True:111666.67
+Gheitarieh_3_True_True:633333.33
+Pardis_2_False_True:19500.0
+Punak_2_True_True:140000.0
+Punak_2_True_True:170000.0
+Punak_2_True_True:143333.33
+Zaferanieh_3_True_True:800000.0
+Pardis_2_True_True:18666.67
+Shahran_2_True_True:125000.0
+Zaferanieh_3_True_True:676400.0
+Shahran_2_True_True:121666.67
+Shahran_3_True_True:101666.67
+Shahr-e-Ziba_2_True_True:105000.0
+Ostad Moein_2_True_True:52666.67
+Northern Suhrawardi_3_True_True:260000.0
+Central Janatabad_2_True_True:156666.67
+Shahran_2_False_False:107333.33
+Pirouzi_2_True_False:48333.33
+Persian Gulf Martyrs Lake_2_True_True:12000.0
+Punak_2_True_True:90000.0
+Velenjak_3_True_True:723333.33
+Farmanieh_3_True_True:733333.33
+Pardis_2_True_True:18000.0
+Pardis_2_False_True:27000.0
+Pardis_2_True_True:19666.67
+Pardis_2_True_True:18500.0
+Elahieh_3_True_True:1516666.67
+Shams Abad_2_True_True:151666.67
+Pardis_2_True_True:18000.0
+Central Janatabad_2_True_False:91666.67
+Shams Abad_2_True_True:137666.67
+Pardis_2_True_True:18333.33
+West Ferdows Boulevard_2_True_True:168333.33
+Shams Abad_1_True_True:60000.0
+Jeyhoon_2_False_False:30666.67
+Salsabil_1_True_False:34933.33
+Andisheh_3_True_True:36666.67
+Andisheh_3_True_True:36666.67
+Pardis_2_False_False:21666.67
+Farmanieh_3_True_True:690000.0
+Velenjak_3_True_True:1563333.33
+Salsabil_1_True_False:33166.67
+Aqdasieh_5_True_False:483333.33
+Andisheh_2_False_False:36666.67
+Pardis_2_True_True:18333.33
+Pardis_2_True_True:26000.0
+West Pars_3_True_True:225333.33
+Pardis_2_True_True:32000.0
+Shahrake Qods_2_False_False:40000.0
+Yousef Abad_2_True_True:186666.67
+Pardis_2_True_False:60000.0
+Pardis_2_True_True:70000.0
+Pirouzi_2_True_True:86666.67
+East Ferdows Boulevard_3_True_True:186666.67
+Pirouzi_2_True_True:133333.33
+Northern Janatabad_2_True_True:99333.33
+Pardis_2_True_True:24000.0
+Ostad Moein_2_True_True:52666.67
+Pardis_2_True_True:24333.33
+Sattarkhan_2_False_False:86666.67
+Yousef Abad_2_True_True:190000.0
+Niavaran_3_True_True:736666.67
+Niavaran_3_True_True:660000.0
+Yousef Abad_2_True_True:183333.33
+Gheitarieh_2_True_True:226666.67
+Kook_3_True_True:433333.33
+Andisheh_1_False_False:13166.67
+Pirouzi_2_True_True:68333.33
+Islamshahr_3_True_True:56333.33
+Tehransar_2_False_False:66666.67
+Saadat Abad_1_True_True:133333.33
+Gheitarieh_2_True_True:273333.33
+Persian Gulf Martyrs Lake_2_True_True:100800.0
+Gheitarieh_2_True_True:278333.33
+Gheitarieh_2_True_True:293333.33
+Gheitarieh_2_True_True:283333.33
+Gheitarieh_1_True_True:280000.0
+Shahrake Gharb_2_True_True:250000.0
+Gheitarieh_2_True_True:290000.0
+Gheitarieh_2_True_True:383333.33
+Pardis_2_True_True:17500.0
+Tarasht_2_True_True:111500.0
+Gheitarieh_2_True_True:276666.67
+Shahrake Qods_2_True_True:33000.0
+Saadat Abad_3_True_True:360000.0
+Salsabil_3_True_False:85000.0
+Shahrake Azadi_2_False_False:56000.0
+Shahrake Gharb_3_True_True:476666.67
+Air force_2_True_False:90000.0
+Shahrake Qods_1_False_False:18666.67
+Pasdaran_3_True_True:330000.0
+Tarasht_2_True_True:153333.33
+Pirouzi_2_False_False:51666.67
+Pirouzi_3_True_True:130000.0
+Punak_2_True_True:99333.33
+Beryanak_1_False_False:27666.67
+Pirouzi_2_True_False:55000.0
+Dehkade Olampic_1_True_False:66666.67
+Ostad Moein_1_True_True:46000.0
+Zaferanieh_3_True_True:433333.33
+Qasr-od-Dasht_1_True_True:40000.0
+Velenjak_3_True_True:400000.0
+Shahr-e-Ziba_2_True_True:115000.0
+West Pars_2_False_True:66666.67
+Parand_3_False_True:17333.33
+Darband_2_True_True:136666.67
+Parand_2_False_False:12166.67
+Parand_2_False_True:19333.33
+Punak_1_True_True:89800.0
+Vanak_5_True_False:1916666.67
+Punak_2_True_False:130000.0
+Air force_1_True_True:56333.33
+Niavaran_2_True_True:186000.0
+Kamranieh_2_True_True:183333.33
+Golestan_2_True_True:23000.0
+Ekhtiarieh_2_True_False:110000.0
+Gheitarieh_3_True_True:453333.33
+Southern Chitgar_2_True_True:23000.0
+Gheitarieh_3_True_True:516666.67
+Railway_2_True_True:43833.33
+Gheitarieh_3_True_True:366666.67
+Shahrake Qods_2_True_True:24500.0
+Tehran Now_2_True_True:100000.0
+Gheitarieh_3_True_True:490000.0
+Niavaran_3_True_True:718666.67
+West Ferdows Boulevard_2_True_True:166666.67
+Gheitarieh_2_True_True:433333.33
+West Ferdows Boulevard_2_True_False:75000.0
+West Ferdows Boulevard_2_True_True:130000.0
+Gheitarieh_2_True_True:280000.0
+Gheitarieh_2_True_True:366666.67
+Feiz Garden_1_True_True:63000.0
+Niavaran_3_True_True:560000.0
+Beryanak_1_False_True:40000.0
+Feiz Garden_3_True_True:116666.67
+Feiz Garden_2_True_True:96666.67
+Southern Janatabad_2_True_True:153333.33
+Qasr-od-Dasht_2_True_True:68333.33
+Southern Janatabad_2_True_True:100000.0
+Andisheh_2_True_False:66666.67
+Shahrake Gharb_3_True_True:300000.0
+Azarbaijan_2_False_False:44666.67
+Azarbaijan_1_True_True:50000.0
+Qasr-od-Dasht_1_False_False:27000.0
+Qasr-od-Dasht_2_True_False:53833.33
+Saadat Abad_3_True_True:416666.67
+Azarbaijan_2_True_True:82666.67
+Andisheh_2_True_True:31666.67
+Shahrake Gharb_2_True_True:329933.33
+Mirdamad_2_True_True:183333.33
+Ray_2_True_True:56666.67
+Gheitarieh_2_True_True:276666.67
+Salsabil_2_True_True:76666.67
+Northern Chitgar_1_True_True:29166.67
+Jeyhoon_2_True_True:46666.67
+Gheitarieh_2_True_True:273333.33
+Heravi_3_True_True:466666.67
+Jeyhoon_1_True_True:47333.33
+Beryanak_1_True_True:41666.67
+Southern Janatabad_2_True_True:129333.33
+Jeyhoon_1_True_True:32000.0
+Abazar_2_True_True:129333.33
+Sattarkhan_2_True_True:119333.33
+Southern Janatabad_2_True_True:116666.67
+Southern Janatabad_2_True_True:109333.33
+Central Janatabad_2_True_True:120000.0
+Southern Janatabad_2_True_True:122666.67
+Gheitarieh_3_True_True:450000.0
+Zafar_5_True_False:2666666.67
+Punak_2_True_True:156000.0
+Punak_3_True_True:313333.33
+Southern Janatabad_3_True_True:206666.67
+Southern Janatabad_2_True_True:136666.67
+Punak_2_True_True:117333.33
+Absard_3_True_False:150000.0
+Punak_1_True_True:83333.33
+Mirdamad_2_True_True:200000.0
+Punak_1_True_True:76666.67
+Jeyhoon_2_True_True:78333.33
+Punak_1_True_True:70000.0
+Punak_2_True_False:75000.0
+Zaferanieh_4_True_True:3080000.0
+Southern Janatabad_3_True_True:198333.33
+Punak_2_True_True:141666.67
+Punak_1_True_True:103333.33
+Velenjak_3_True_True:453333.33
+Punak_2_True_False:74333.33
+Yaftabad_2_True_True:41666.67
+Punak_2_True_True:86666.67
+Ozgol_1_True_True:150000.0
+Central Janatabad_3_True_True:205000.0
+Shahrake Gharb_2_True_True:328666.67
+Northern Janatabad_1_True_True:90000.0
+Ozgol_2_True_True:310000.0
+Saadat Abad_3_True_True:373333.33
+Saadat Abad_3_True_True:493333.33
+Southern Janatabad_2_True_True:85333.33
+Elahieh_4_True_True:1666666.67
+Ostad Moein_2_True_True:99666.67
+Shahran_1_True_True:95000.0
+Farmanieh_3_True_True:833333.33
+Ekhtiarieh_2_True_True:256666.67
+Shahrakeh Naft_3_True_True:250000.0
+Punak_2_True_False:93333.33
+Islamshahr_2_True_False:36666.67
+Gheitarieh_2_True_True:316666.67
+Shahr-e-Ziba_2_True_True:82666.67
+Punak_2_True_True:200000.0
+Punak_2_True_True:130000.0
+Punak_2_True_True:138333.33
+Islamshahr_2_True_False:41666.67
+Central Janatabad_2_True_True:143333.33
+Heravi_3_True_True:233333.33
+Jeyhoon_2_True_True:60000.0
+Zaferanieh_4_True_True:531666.67
+Zafar_2_False_True:185000.0
+Andisheh_4_True_False:173333.33
+Andisheh_2_True_True:64333.33
+Islamshahr_2_True_True:36600.0
+Islamshahr_1_True_True:29400.0
+Central Janatabad_2_True_True:120000.0
+Islamshahr_3_True_True:66333.33
+Islamshahr_2_True_False:54666.67
+Islamshahr_1_True_False:26000.0
+Islamshahr_2_True_True:84333.33
+Ostad Moein_2_True_True:99666.67
+Ekhtiarieh_2_True_True:143333.33
+Persian Gulf Martyrs Lake_1_True_True:9833.33
+Southern Janatabad_2_True_True:93333.33
+Dorous_3_True_True:326666.67
+Ostad Moein_2_True_True:130000.0
+Dezashib_1_True_True:105000.0
+Saadat Abad_3_True_True:419333.33
+Qasr-od-Dasht_3_True_True:98333.33
+Central Janatabad_2_True_True:120000.0
+Central Janatabad_1_True_True:148333.33
+Punak_2_True_True:180166.67
+Darabad_2_True_True:176666.67
+North Program Organization_2_True_True:143333.33
+Pardis_2_True_True:25000.0
+Amir Bahador_2_True_True:54600.0
+Pasdaran_3_True_True:433333.33
+Elahieh_3_True_True:1333333.33
+Northern Janatabad_2_True_False:128333.33
+Southern Program Organization_2_True_True:143333.33
+Heravi_2_True_True:213333.33
+Southern Janatabad_2_True_True:126000.0
+Velenjak_3_True_True:320000.0
+Parand_2_False_True:14166.67
+Persian Gulf Martyrs Lake_3_True_True:19666.67
+Pasdaran_3_True_True:368666.67
+West Ferdows Boulevard_1_True_True:75000.0
+Pasdaran_3_True_True:439166.67
+Southern Janatabad_2_True_True:190000.0
+Saadat Abad_3_True_True:383333.33
+Shahr-e-Ziba_2_True_True:75000.0
+Northern Chitgar_1_True_True:29166.67
+Shahrake Qods_2_True_True:34333.33
+Shahrake Qods_1_False_False:13166.67
+Ekhtiarieh_3_True_True:316666.67
+Punak_2_True_False:73333.33
+Ekhtiarieh_2_True_True:200000.0
+Parand_2_True_False:21666.67
+Damavand_2_True_True:71666.67
+Jeyhoon_2_True_True:73333.33
+Gheitarieh_3_True_True:433333.33
+Ekhtiarieh_3_True_True:320000.0
+Saadat Abad_2_True_True:183333.33
+Shahran_2_True_True:156666.67
+Saadat Abad_2_True_True:160000.0
+Ekhtiarieh_2_True_True:210000.0
+Velenjak_3_True_True:268500.0
+Central Janatabad_2_True_True:120000.0
+West Ferdows Boulevard_1_True_True:121666.67
+Shahr-e-Ziba_1_True_True:58333.33
+Komeil_2_False_True:41666.67
+Saadat Abad_2_True_True:204000.0
+Pardis_2_True_True:15666.67
+West Ferdows Boulevard_2_True_False:80000.0
+Shahrake Qods_2_True_True:35000.0
+Saadat Abad_3_True_True:483333.33
+Saadat Abad_3_True_True:310000.0
+Shahrake Qods_2_True_True:32000.0
+Abazar_5_True_False:3033333.33
+Saadat Abad_3_True_True:533333.33
+Pardis_2_True_True:19000.0
+Shahr-e-Ziba_2_True_True:111666.67
+Ostad Moein_2_True_True:52666.67
+West Ferdows Boulevard_1_True_True:96666.67
+West Ferdows Boulevard_1_True_True:88333.33
+West Ferdows Boulevard_2_True_True:103333.33
+Saadat Abad_1_False_False:110000.0
+West Ferdows Boulevard_1_True_True:93333.33
+Ostad Moein_2_True_True:93333.33
+Saadat Abad_3_True_True:546666.67
+Saadat Abad_2_True_True:296666.67
+West Ferdows Boulevard_2_True_True:96666.67
+Saadat Abad_2_True_True:185166.67
+Ekhtiarieh_2_True_True:166666.67
+Saadat Abad_3_True_True:350000.0
+Saadat Abad_4_True_True:1000000.0
+Shahrake Gharb_3_True_True:633333.33
+Andisheh_2_True_False:33333.33
+Saadat Abad_2_True_True:293333.33
+Saadat Abad_3_True_True:310000.0
+Saadat Abad_2_True_True:153333.33
+Saadat Abad_1_True_True:155000.0
+Southern Program Organization_1_True_True:91666.67
+West Ferdows Boulevard_2_True_True:95000.0
+West Ferdows Boulevard_2_True_True:95000.0
+East Ferdows Boulevard_2_True_True:100000.0
+Shahrake Gharb_3_True_True:373333.33
+Saadat Abad_2_True_True:226666.67
+Shahrake Qods_1_True_True:17000.0
+West Ferdows Boulevard_2_True_True:86666.67
+Saadat Abad_3_True_True:316666.67
+Shahran_2_True_False:61666.67
+Pardis_2_True_True:25666.67
+East Ferdows Boulevard_1_True_True:86666.67
+Jeyhoon_2_True_True:76666.67
+West Ferdows Boulevard_2_True_False:83333.33
+Azarbaijan_2_True_True:105000.0
+Shahran_2_True_True:88333.33
+Punak_3_True_True:350000.0
+Qalandari_2_True_True:141666.67
+Pardis_2_True_True:26666.67
+Pirouzi_2_True_True:110000.0
+Aqdasieh_4_True_True:900000.0
+Saadat Abad_2_True_True:200000.0
+Eram_3_True_False:99000.0
+Jeyhoon_2_True_True:130000.0
+Shahrake Gharb_3_True_True:650000.0
+Shahr-e-Ziba_2_True_True:106666.67
+Pardis_2_True_True:23333.33
+Pardis_2_True_True:25666.67
+Gheitarieh_3_True_True:533333.33
+Elahieh_4_True_True:2100000.0
+Ekhtiarieh_2_True_True:276666.67
+Ostad Moein_2_True_True:98333.33
+Southern Program Organization_1_True_True:80000.0
+Parand_2_False_False:11500.0
+Gheitarieh_3_True_True:660000.0
+Punak_2_True_True:200000.0
+Ekhtiarieh_2_True_True:200000.0
+Kamranieh_3_True_True:883333.33
+Southern Program Organization_2_True_False:119333.33
+Shahrake Qods_2_True_True:32733.33
+Shahrake Qods_2_True_True:29000.0
+Parand_2_False_True:13333.33
+Andisheh_4_True_True:102000.0
+Andisheh_2_False_False:31000.0
+Parand_3_True_False:28333.33
+Ekhtiarieh_3_True_True:260000.0
+Pasdaran_3_True_True:278333.33
+Jeyhoon_1_False_False:28333.33
+Pasdaran_2_True_True:200000.0
+Saadat Abad_3_True_True:450000.0
+Northern Janatabad_2_True_True:105000.0
+Saadat Abad_3_True_True:450000.0
+Shahr-e-Ziba_2_True_True:85000.0
+Pirouzi_1_True_True:53333.33
+Pardis_2_True_True:28333.33
+Ostad Moein_1_False_True:33333.33
+Gheitarieh_3_True_True:246666.67
+Feiz Garden_1_True_True:73333.33
+Pardis_2_True_True:31500.0
+Azarbaijan_1_True_True:58333.33
+Southern Janatabad_2_True_True:116666.67
+Southern Janatabad_2_True_True:129333.33
+Pardis_2_True_True:35000.0
+Saadat Abad_3_True_True:326666.67
+Shahrake Gharb_3_True_True:300000.0
+Shahr-e-Ziba_3_True_True:129000.0
+Shahrake Gharb_3_True_True:366666.67
+Yousef Abad_2_True_True:180000.0
+Central Janatabad_1_True_False:73000.0
+Gheitarieh_3_True_True:340000.0
+North Program Organization_2_True_True:171666.67
+Southern Janatabad_2_True_True:120000.0
+Punak_2_True_True:129000.0
+Northern Janatabad_2_True_True:129333.33
+West Ferdows Boulevard_3_True_True:240000.0
+Persian Gulf Martyrs Lake_2_True_True:98666.67
+Dehkade Olampic_3_True_True:140000.0
+Pardis_2_True_True:29666.67
+West Ferdows Boulevard_3_True_True:433333.33
+Tarasht_2_True_False:120000.0
+Water Organization_2_True_False:131666.67
+Northern Janatabad_2_False_True:105000.0
+Aqdasieh_3_True_True:800000.0
+Punak_1_False_True:66666.67
+Gheitarieh_3_True_True:443333.33
+Ajudaniye_3_True_True:900000.0
+Kamranieh_3_True_True:1120000.0
+Gheitarieh_3_True_True:290000.0
+Azadshahr_3_True_False:115000.0
+Dehkade Olampic_2_True_True:136666.67
+Shahran_3_True_True:137600.0
+Pardis_2_True_True:23666.67
+Persian Gulf Martyrs Lake_3_True_True:213333.33
+Shahrake Qods_3_False_True:53333.33
+Azadshahr_2_False_False:103333.33
+Shahran_2_True_False:60666.67
+Persian Gulf Martyrs Lake_3_True_True:223333.33
+Farmanieh_3_True_True:766666.67
+Shahr-e-Ziba_2_True_True:107333.33
+Shahran_2_True_True:129333.33
+West Ferdows Boulevard_2_True_True:113333.33
+Yousef Abad_2_True_False:131666.67
+Northern Janatabad_2_True_False:98333.33
+Farmanieh_3_True_True:366666.67
+Hakimiyeh_3_True_True:149333.33
+Shahran_2_True_True:98333.33
+Gheitarieh_2_True_True:366666.67
+Niavaran_3_True_True:366666.67
+Farmanieh_3_True_True:576000.0
+West Ferdows Boulevard_2_True_True:75666.67
+Gheitarieh_2_True_True:266666.67
+Gheitarieh_3_True_True:371666.67
+Atabak_2_True_True:43333.33
+Yousef Abad_2_True_True:141666.67
+Shahran_2_True_True:180000.0
+Ekhtiarieh_2_True_True:216666.67
+Shahran_2_True_True:128000.0
+Ekhtiarieh_1_True_True:123333.33
+Persian Gulf Martyrs Lake_3_True_True:45333.33
+Shahran_2_True_True:166666.67
+Shahran_3_True_True:103333.33
+Shahrake Qods_2_True_True:56666.67
+Shahran_2_True_False:85000.0
+Shahran_2_True_False:86000.0
+Shahr-e-Ziba_2_True_True:66666.67
+Pardis_2_True_True:16666.67
+Shahr-e-Ziba_2_True_True:68333.33
+Pardis_2_True_True:17666.67
+Pardis_1_True_True:24000.0
+Pardis_2_True_True:33333.33
+Shahr-e-Ziba_2_True_True:66000.0
+Shahr-e-Ziba_2_True_True:66666.67
+Central Janatabad_2_True_True:111666.67
+Punak_2_True_True:150000.0
+Gheitarieh_2_True_True:186666.67
+Heravi_3_True_True:300000.0
+Absard_2_False_False:150000.0
+Shahrake Gharb_3_True_True:226666.67
+Pakdasht_2_True_True:21333.33
+Damavand_4_True_False:666666.67
+Damavand_3_True_False:283333.33
+Persian Gulf Martyrs Lake_1_True_True:29166.67
+Persian Gulf Martyrs Lake_1_True_True:29000.0
+Sabalan_2_True_True:40000.0
+Shahrake Qods_2_True_True:32000.0
+Gheitarieh_2_True_True:290000.0
+Narmak_1_False_True:70000.0
+Gheitarieh_2_True_True:246666.67
+Heravi_2_True_True:166666.67
+Gheitarieh_3_True_True:400000.0
+Gheitarieh_3_True_True:800000.0
+Gheitarieh_3_True_True:483333.33
+Gheitarieh_3_True_True:443333.33
+Gheitarieh_2_True_True:443333.33
+Heravi_2_True_True:163333.33
+Gheitarieh_3_True_True:663333.33
+Gheitarieh_2_True_True:386666.67
+Gheitarieh_2_True_True:243333.33
+Heravi_2_True_True:221333.33
+Gheitarieh_3_True_True:850000.0
+Velenjak_2_True_True:440000.0
+Gheitarieh_3_True_True:650000.0
+Gheitarieh_3_False_False:483333.33
+Gheitarieh_3_True_True:433333.33
+Pirouzi_2_True_True:88333.33
+Gheitarieh_2_True_True:253333.33
+Gheitarieh_2_True_True:283333.33
+Saadat Abad_2_True_True:216666.67
+Araj_3_True_True:460000.0
+Aqdasieh_3_True_True:443333.33
+Araj_3_True_True:456666.67
+Gheitarieh_3_True_True:266666.67
+Araj_3_False_False:443333.33
+Aqdasieh_3_True_True:440000.0
+Si Metri Ji_1_True_True:43933.33
+Jeyhoon_2_True_True:51666.67
+Beryanak_2_True_True:46666.67
+Araj_3_True_True:443333.33
+Ostad Moein_3_True_True:131666.67
+Amirabad_2_True_True:159333.33
+Aqdasieh_3_True_True:446666.67
+Parand_2_True_True:16666.67
+Araj_3_False_False:450000.0
+Ostad Moein_1_False_True:44000.0
+Araj_3_True_True:456666.67
+Pirouzi_2_True_True:75000.0
+Aqdasieh_3_True_True:490000.0
+Saadat Abad_2_True_True:186666.67
+Gheitarieh_2_True_True:266666.67
+Saadat Abad_2_True_True:246666.67
+Aqdasieh_2_True_True:350000.0
+Saadat Abad_3_True_True:266666.67
+Aqdasieh_2_True_True:350000.0
+Ostad Moein_2_True_True:50000.0
+Araj_2_True_True:350000.0
+Araj_3_True_True:476666.67
+Aqdasieh_3_True_True:473333.33
+Shahrake Qods_3_True_True:86333.33
+Aqdasieh_3_True_True:466666.67
+Jeyhoon_2_True_False:50000.0
+Gheitarieh_2_True_True:240000.0
+Ostad Moein_3_True_True:131666.67
+Gheitarieh_2_True_True:246666.67
+Central Janatabad_2_True_True:126666.67
+Gheitarieh_2_True_True:243333.33
+Shahran_2_True_True:76666.67
+Northern Janatabad_2_True_True:160000.0
+Gheitarieh_2_True_True:243333.33
+Jeyhoon_2_True_True:57666.67
+Shahrake Qods_2_True_True:37840.0
+Gheitarieh_3_True_True:366666.67
+Shahrake Qods_2_False_False:21666.67
+Shahrake Qods_2_True_True:33333.33
+Southern Janatabad_2_True_True:76666.67
+Gheitarieh_3_True_True:366666.67
+Jeyhoon_2_True_True:61666.67
+Shahrake Qods_2_True_True:30000.0
+Shahrake Qods_1_True_True:17833.33
+Shahrake Qods_2_True_True:22666.67
+Gheitarieh_2_True_True:290000.0
+Shahrake Qods_2_True_True:31666.67
+Gheitarieh_2_True_True:273333.33
+Farmanieh_3_True_True:230000.0
+Gheitarieh_3_True_True:373333.33
+Farmanieh_3_False_True:230000.0
+Damavand_1_False_False:30000.0
+Saadat Abad_2_True_True:193333.33
+Salsabil_2_False_False:34666.67
+Saadat Abad_2_True_True:200000.0
+Jeyhoon_3_True_True:153333.33
+Pardis_2_True_True:15966.67
+Pardis_2_True_True:16533.33
+Shahrake Gharb_3_True_True:216666.67
+Pardis_2_True_True:23000.0
+Punak_2_True_False:76000.0
+Shahran_2_True_True:76000.0
+Shahran_2_True_True:106666.67
+Pardis_2_True_True:29666.67
+West Ferdows Boulevard_2_True_True:88333.33
+Shahrake Gharb_1_True_True:113333.33
+Shahr-e-Ziba_2_True_True:95000.0
+Southern Program Organization_1_True_True:80000.0
+West Ferdows Boulevard_2_True_True:110000.0
+West Ferdows Boulevard_3_True_True:120000.0
+Shahran_2_True_True:116666.67
+Punak_3_True_True:250000.0
+Shahrake Gharb_2_True_True:170000.0
+Shahrake Gharb_2_True_True:218833.33
+Pakdasht_0_False_False:5500.0
+Railway_2_True_True:95333.33
+Persian Gulf Martyrs Lake_3_True_True:127000.0
+Persian Gulf Martyrs Lake_3_True_True:59666.67
+Persian Gulf Martyrs Lake_2_True_True:51000.0
+Beryanak_2_False_False:33333.33
+Punak_2_True_True:116666.67
+Heshmatieh_2_True_True:100000.0
+Elm-o-Sanat_2_False_True:60000.0
+Saadat Abad_3_True_True:666666.67
+Golestan_2_True_True:31666.67
+Jeyhoon_2_True_False:48333.33
+Parand_3_False_True:15833.33
+Gheitarieh_3_True_False:200000.0
+Shahrake Qods_1_True_False:12000.0
+Ostad Moein_1_False_True:40000.0
+Narmak_1_False_True:45000.0
+Andisheh_2_True_True:60000.0
+Shahryar_1_True_False:16666.67
+Nasim Shahr_0_False_False:12000.0
+Baghestan_2_True_False:25500.0
+North Program Organization_3_True_True:213333.33
+Shahr-e-Ziba_2_True_True:100000.0
+Shahrake Qods_2_True_True:42000.0
+SabaShahr_2_True_False:73333.33
+Railway_3_True_True:195000.0
+Andisheh_1_True_False:18333.33
+Dehkade Olampic_5_False_False:400000.0
+Shahrake Madaen_2_True_True:26666.67
+Pakdasht_2_True_True:42333.33
+Ostad Moein_1_False_False:40000.0
+Azadshahr_3_True_False:150000.0
+Salsabil_3_True_True:119466.67
+Tehransar_3_True_True:125000.0
+Shahr-e-Ziba_2_True_True:83666.67
+Railway_3_True_True:195000.0
+Central Janatabad_2_True_True:162333.33
+Andisheh_1_True_False:21666.67
+West Ferdows Boulevard_2_True_True:120000.0
+Central Janatabad_2_True_True:113166.67
+Qasr-od-Dasht_1_False_False:24000.0
+Shahr-e-Ziba_2_True_True:71666.67
+Shahran_2_True_True:130666.67
+Beryanak_1_True_False:27666.67
+Shahr-e-Ziba_2_True_True:185000.0
+Shahr-e-Ziba_2_True_True:97333.33
+Southern Janatabad_2_True_True:75000.0
+Persian Gulf Martyrs Lake_2_True_True:100800.0
+Beryanak_2_False_False:31000.0
+Hashemi_1_False_True:27666.67
+West Ferdows Boulevard_2_True_True:121666.67
+Salsabil_1_False_False:25666.67
+Shahrakeh Naft_2_True_True:153333.33
+Shahrake Gharb_3_True_True:411666.67
+East Ferdows Boulevard_2_True_True:93333.33
+Valiasr_3_True_True:333333.33
+Yousef Abad_3_True_True:157500.0
+Waterfall_2_False_True:42166.67
+Sadeghieh_3_True_True:233333.33
+Baghestan_2_False_False:20000.0
+Pardis_2_False_False:30000.0
+Qasr-od-Dasht_2_False_False:42000.0
+Central Janatabad_2_True_True:74666.67
+Ostad Moein_2_False_False:40000.0
+Pardis_2_True_True:21666.67
+Shahryar_1_False_False:19000.0
+Pakdasht_2_False_False:11833.33
+Ahang_1_False_False:26666.67
+Sattarkhan_3_True_True:163333.33
+Shahran_2_True_True:90000.0
+Sattarkhan_3_True_True:113333.33
+Jeyhoon_1_False_False:31666.67
+Pirouzi_1_False_False:29000.0
+West Ferdows Boulevard_2_True_True:99000.0
+Central Janatabad_2_True_True:111000.0
+Shahran_2_True_False:61666.67
+Baghestan_1_False_False:18666.67
+Shahrake Qods_2_True_True:35400.0
+Ostad Moein_1_False_False:30000.0
+Ray_2_True_True:113333.33
+Komeil_1_False_False:27333.33
+Andisheh_2_True_False:25766.67
+Hashemi_2_True_True:78333.33
+Eskandari_2_True_True:98666.67
+East Ferdows Boulevard_2_True_True:83333.33
+Persian Gulf Martyrs Lake_4_True_True:160000.0
+Shahryar_2_False_False:324000.0
+Qasr-od-Dasht_1_False_False:25666.67
+Shahran_2_True_True:95000.0
+Salsabil_1_True_False:35000.0
+Pirouzi_1_False_False:32000.0
+Aqdasieh_1_True_True:133333.33
+Salehabad_2_False_True:25000.0
+Niavaran_3_True_True:1033333.33
+Absard_2_True_False:103333.33
+Feiz Garden_1_True_False:64333.33
+Pakdasht_3_True_True:42666.67
+Golestan_2_True_False:68333.33
+Southern Program Organization_2_True_True:90000.0
+Baghestan_1_False_True:20666.67
+Shahr-e-Ziba_1_True_True:73333.33
+Shahran_2_True_True:103666.67
+Pasdaran_2_True_True:195000.0
+Zafar_3_True_True:345600.0
+Qarchak_1_False_True:12666.67
+Sattarkhan_2_True_False:70000.0
+Ray_2_True_True:68333.33
+Ray_2_True_True:60000.0
+Punak_2_True_True:140000.0
+Niavaran_4_True_True:2400000.0
+West Ferdows Boulevard_2_True_True:77666.67
+Pishva_1_False_False:12666.67
+Ostad Moein_1_True_True:33333.33
+Jeyhoon_1_True_True:38333.33
+Sattarkhan_2_True_False:67000.0
+Karoon_2_False_False:35666.67
+Andisheh_1_True_False:3666.67
+Andisheh_2_True_True:40000.0
+Beryanak_2_False_True:43000.0
+Salsabil_2_False_True:40666.67
+West Pars_2_True_True:72000.0
+Jeyhoon_2_False_False:39566.67
+Jeyhoon_2_False_False:40333.33
+Salsabil_2_False_False:40500.0
+Andisheh_2_True_False:35600.0
+Beryanak_2_True_True:48333.33
+Si Metri Ji_2_False_True:48000.0
+Central Janatabad_2_True_True:143333.33
+Jeyhoon_2_True_False:48000.0
+Shahrake Qods_1_False_True:30666.67
+Beryanak_1_True_True:47166.67
+Beryanak_2_False_True:43666.67
+Beryanak_2_False_True:43333.33
+Salsabil_2_True_True:45000.0
+Ostad Moein_1_False_True:33300.0
+Shahr-e-Ziba_3_True_True:118333.33
+Parand_2_False_True:13900.0
+Baghestan_1_False_False:15000.0
+Shahr-e-Ziba_2_False_True:81666.67
+Persian Gulf Martyrs Lake_2_True_True:95000.0
+Andisheh_1_False_False:12333.33
+Jordan_2_True_True:204800.0
+Shahrake Shahid Bagheri_2_True_True:81666.67
+Beryanak_1_False_False:27666.67
+Pardis_2_True_True:16666.67
+Pardis_2_True_True:20000.0
+Punak_2_True_True:76666.67
+Jordan_3_True_True:205333.33
+Heravi_3_True_True:310000.0
+Yousef Abad_3_True_True:386666.67
+Enghelab_1_True_False:51333.33
+Niavaran_3_True_True:950000.0
+Heravi_2_True_True:200000.0
+Pakdasht_2_True_True:36333.33
+Pirouzi_1_True_False:46000.0
+Yousef Abad_3_True_True:281666.67
+Golestan_2_True_True:43833.33
+Gisha_2_False_True:59800.0
+Ostad Moein_1_False_False:35000.0
+Yousef Abad_3_True_True:163333.33
+Southern Janatabad_1_True_True:83333.33
+Baghestan_1_False_False:13666.67
+Islamshahr Elahieh_2_True_True:58333.33
+Salsabil_1_False_False:27166.67
+Yousef Abad_3_True_True:273333.33
+Jeyhoon_1_False_False:26666.67
+Si Metri Ji_2_False_False:21666.67
+Pirouzi_2_True_True:58333.33
+Yousef Abad_3_True_True:266666.67
+Pakdasht_3_True_True:33333.33
+Pakdasht_2_False_False:21333.33
+Shahran_2_True_True:154666.67
+Shahran_2_True_True:150000.0
+Pakdasht_2_False_True:15333.33
+Yousef Abad_3_True_True:233333.33
+Pakdasht_2_False_True:22000.0
+Yousef Abad_3_True_True:200000.0
+Islamshahr_1_True_True:40000.0
+Parand_2_False_True:12833.33
+Niavaran_3_True_False:283333.33
+Zaferanieh_2_True_True:500000.0
+Yousef Abad_3_True_True:333333.33
+Zafar_1_True_True:40000.0
+Elahieh_1_False_False:27166.67
+Niavaran_2_True_True:300000.0
+Andisheh_1_False_True:22166.67
+Aqdasieh_2_True_True:233333.33
+Punak_2_True_False:88333.33
+Niavaran_3_True_True:966666.67
+Niavaran_3_True_True:736666.67
+Gheitarieh_2_True_True:276666.67
+Kamranieh_1_True_True:333333.33
+Niavaran_3_True_True:466666.67
+Ray - Montazeri_1_True_True:41666.67
+Punak_2_True_False:89333.33
+West Ferdows Boulevard_2_True_False:73333.33
+Islamshahr_2_False_False:260000.0
+Darabad_2_True_True:195000.0
+Velenjak_2_True_True:300000.0
+Elahieh_3_True_True:427500.0
+Punak_2_True_False:82000.0
+Aqdasieh_2_True_True:173333.33
+Narmak_1_True_False:41666.67
+Shahr-e-Ziba_2_True_True:93333.33
+Ozgol_1_True_True:100000.0
+Amirabad_2_True_False:113333.33
+West Ferdows Boulevard_2_True_False:71666.67
+Valiasr_1_True_False:25000.0
+Parand_2_True_True:13666.67
+Jeyhoon_2_False_False:21666.67
+West Ferdows Boulevard_2_True_True:76666.67
+Firoozkooh Kuhsar_2_True_False:25000.0
+West Ferdows Boulevard_2_True_True:90000.0
+West Ferdows Boulevard_2_True_False:76666.67
+Narmak_1_True_False:44333.33
+West Ferdows Boulevard_1_True_True:63333.33
+Northern Janatabad_2_True_True:89333.33
+Parand_1_False_False:10500.0
+Ostad Moein_1_True_True:48000.0
+West Ferdows Boulevard_2_True_False:73333.33
+Salsabil_1_True_True:51000.0
+Salsabil_1_False_False:22000.0
+Azarbaijan_1_False_False:36666.67
+Southern Program Organization_2_True_True:75000.0
+Ghoba_3_True_True:223333.33
+Salsabil_1_False_False:30033.33
+Shahryar_2_True_True:28333.33
+Salsabil_2_True_True:58333.33
+Shahryar_4_True_False:250000.0
+Qasr-od-Dasht_1_False_False:27933.33
+Hashemi_1_False_False:35933.33
+Salsabil_2_True_True:44985.0
+Hashemi_1_False_False:28000.0
+Salsabil_2_True_False:36666.67
+Andisheh_4_True_False:143333.33
+Hashemi_1_False_False:20333.33
+Hashemi_1_False_False:32000.0
+Salsabil_1_False_False:21333.33
+Eskandari_1_False_True:31333.33
+Azarbaijan_1_True_True:38333.33
+Komeil_1_False_True:48666.67
+Andisheh_1_True_False:25166.67
+Jeyhoon_1_False_False:24833.33
+Qasr-od-Dasht_2_True_False:42666.67
+Salsabil_1_True_True:38333.33
+Golestan_3_True_False:800000.0
+Pardis_2_True_False:90000.0
+Azarbaijan_2_True_True:33333.33
+Kahrizak_2_False_False:88333.33
+Karoon_1_True_True:38000.0
+Farmanieh_3_True_True:310000.0
+Central Janatabad_1_True_False:66666.67
+Jeyhoon_2_False_True:40000.0
+Salsabil_1_True_False:29000.0
+Jeyhoon_2_True_False:36666.67
+Niavaran_2_True_True:296666.67
+Pirouzi_3_True_True:145000.0
+Parand_2_False_True:11666.67
+Salsabil_1_False_False:37666.67
+Salsabil_1_True_False:36666.67
+Jeyhoon_1_False_False:38336.67
+Karoon_1_False_True:32166.67
+Ekhtiarieh_1_True_True:100000.0
+Valiasr_2_False_True:56666.67
+Marzdaran_3_True_True:526666.67
+Karoon_2_True_False:47666.67
+Ostad Moein_2_False_False:43333.33
+Central Janatabad_2_True_False:70000.0
+Salsabil_1_False_False:29000.0
+Niavaran_2_True_True:250000.0
+Zaferanieh_2_True_True:340000.0
+Niavaran_3_True_True:583333.33
+Hekmat_2_True_True:216666.67
+Parand_2_True_True:16666.67
+Zaferanieh_2_True_True:600000.0
+Ekhtiarieh_3_True_True:600000.0
+Andisheh_2_True_True:36666.67
+Shams Abad_2_True_True:108333.33
+Zaferanieh_2_True_True:600000.0
+ShahrAra_3_True_True:240000.0
+East Ferdows Boulevard_1_True_True:72333.33
+Farmanieh_3_True_True:733333.33
+Gheitarieh_2_True_True:326666.67
+Farmanieh_3_True_True:1283333.33
+Niavaran_4_True_True:1166666.67
+Niavaran_3_True_True:1133333.33
+Northern Chitgar_1_True_True:40000.0
+Shams Abad_2_False_True:111666.67
+Niavaran_3_True_True:1133333.33
+Pirouzi_1_False_False:53333.33
+Ostad Moein_2_True_True:81166.67
+Punak_2_True_False:93333.33
+Parand_2_False_False:14666.67
+Pirouzi_2_True_False:56666.67
+Si Metri Ji_1_False_True:25000.0
+Parand_2_False_True:14333.33
+Parand_2_True_True:12833.33
+Kahrizak_2_False_False:40000.0
+Amirabad_2_True_False:133333.33
+Islamshahr_1_False_False:19333.33
+Afsarieh_1_False_False:105000.0
+Ekhtiarieh_2_True_True:300000.0
+Ostad Moein_2_True_True:59666.67
+Saadat Abad_3_True_True:303800.0
+Kamranieh_3_True_True:270000.0
+Heravi_3_True_True:266333.33
+Heravi_2_True_True:236666.67
+Aqdasieh_3_True_True:2480000.0
+Farmanieh_3_True_True:1128000.0
+Shahedshahr_1_False_False:9900.0
+Golestan_2_False_False:20000.0
+Ostad Moein_2_True_True:55666.67
+Gholhak_2_True_True:206666.67
+Shahr-e-Ziba_2_True_True:53333.33
+Andisheh_5_True_False:216666.67
+Southern Program Organization_2_True_False:66666.67
+Shahr-e-Ziba_2_True_False:81666.67
+Northren Jamalzadeh_1_False_True:51333.33
+Andisheh_2_False_False:13666.67
+Punak_2_True_True:133333.33
+Shahrake Gharb_2_True_True:175000.0
+Pardis_2_True_True:25666.67
+Jeyhoon_2_True_True:66000.0
+Pakdasht_2_True_True:36666.67
+Punak_2_True_True:100000.0
+Shahrake Qods_1_False_False:12666.67
+Punak_2_True_True:98333.33
+Sattarkhan_2_True_True:21666.67
+Punak_2_True_True:106666.67
+Qasr-od-Dasht_1_False_False:62000.0
+Pakdasht_2_False_True:28000.0
+Zafar_2_True_True:175000.0
+Saadat Abad_2_True_True:200000.0
+West Ferdows Boulevard_1_False_False:51666.67
+Jeyhoon_2_True_False:59333.33
+West Ferdows Boulevard_1_True_True:68333.33
+Shahrake Qods_2_True_True:45833.33
+Shahran_1_True_True:58333.33
+Narmak_2_True_False:73333.33
+Mehrabad_4_False_False:206666.67
+Southern Program Organization_1_True_True:81666.67
+Salsabil_1_False_False:25333.33
+Qasr-od-Dasht_2_False_True:61666.67
+Salsabil_2_True_True:75333.33
+Salsabil_1_False_False:39333.33
+Salsabil_2_True_True:53333.33
+Salsabil_1_False_False:26666.67
+Tehran Now_2_False_False:56666.67
+Ekhtiarieh_2_True_True:216666.67
+Qasr-od-Dasht_1_False_False:29000.0
+Northern Suhrawardi_2_False_False:216666.67
+Southern Suhrawardi_1_False_True:73666.67
+Islamshahr_3_True_True:55000.0
+Heravi_3_True_True:195000.0
+Jeyhoon_2_True_True:68333.33
+Ekhtiarieh_2_True_True:146666.67
+Parand_2_False_True:14000.0
+Andisheh_2_True_False:28933.33
+Andisheh_2_True_True:40000.0
+Azarbaijan_2_True_False:46333.33
+Andisheh_2_True_True:45666.67
+Islamshahr_2_True_True:50000.0
+Tehransar_1_True_False:41666.67
+Kahrizak_1_False_True:20333.33
+Dezashib_2_True_True:375000.0
+Kahrizak_3_True_True:38500.0
+Kahrizak_1_False_True:22000.0
+Kahrizak_2_True_True:38666.67
+Kahrizak_3_True_True:43733.33
+Kahrizak_2_True_True:23800.0
+Kahrizak_2_True_True:27333.33
+Mirdamad_1_True_True:108333.33
+Pardis_2_True_True:25333.33
+Gholhak_2_True_True:293333.33
+Kahrizak_2_True_True:28333.33
+Punak_2_True_False:103333.33
+Pardis_2_True_True:16833.33
+Gheitarieh_2_True_True:190000.0
+Tehransar_1_True_True:51000.0
+Damavand_2_False_False:16333.33
+Kamranieh_4_True_True:675000.0
+Shahran_2_True_False:86666.67
+Parand_1_True_False:12500.0
+Abuzar_1_False_False:28333.33
+Northern Suhrawardi_2_False_False:130000.0
+Dolatabad_1_True_False:23166.67
+Karoon_2_True_True:66666.67
+Punak_2_True_True:125333.33
+Niavaran_4_True_True:833333.33
+Salsabil_2_True_True:56666.67
+Jordan_4_True_False:400000.0
+Salsabil_2_True_True:87666.67
+Shahrake Qods_3_False_False:20000.0
+Damavand_3_True_False:150000.0
+Shahrake Qods_2_True_True:30000.0
+Ekhtiarieh_3_True_True:366666.67
+Shahran_2_True_True:116666.67
+Shahrake Qods_1_False_False:13333.33
+Salsabil_3_True_True:150000.0
+Shahran_2_True_False:62333.33
+Shahrake Qods_1_False_False:14333.33
+Pardis_2_True_True:26333.33
+Shahrake Qods_2_True_True:22333.33
+Elm-o-Sanat_2_True_True:111666.67
+Punak_2_True_True:156666.67
+Hor Square_2_True_True:62483.33
+Niavaran_1_False_True:120000.0
+Jeyhoon_1_True_False:40000.0
+Hor Square_2_True_True:65243.33
+Hor Square_2_True_True:13333.33
+Hor Square_2_True_True:76130.0
+Hor Square_2_True_True:69038.33
+Parand_2_False_False:12166.67
+Nezamabad_1_True_False:27833.33
+Zaferanieh_4_True_True:625000.0
+Dolatabad_2_True_True:49666.67
+Damavand_2_True_True:20166.67
+Razi_2_True_True:40200.0
+Damavand_1_False_False:12500.0
+Damavand_2_True_True:78666.67
+Parand_2_True_True:12833.33
+Razi_2_True_True:61666.67
+Shahrake Qods_2_True_False:21333.33
+Abuzar_1_False_False:34000.0
+East Pars_2_True_True:180000.0
+Narmak_2_True_True:160866.67
+Gisha_2_False_True:120000.0
+Islamshahr_1_False_False:9833.33
+Tarasht_3_True_True:148000.0
+Marzdaran_3_True_True:386666.67
+Azarbaijan_3_True_True:100000.0
+Marzdaran_3_True_True:433333.33
+Marzdaran_3_True_True:370000.0
+Damavand_2_True_False:51666.67
+Heravi_3_True_True:215500.0
+Pardis_2_True_True:18833.33
+Parand_2_True_True:30000.0
+Parand_1_True_False:22000.0
+Parand_1_False_True:10666.67
+Parand_1_False_True:10666.67
+Pardis_2_True_True:21666.67
+Pardis_2_True_True:22666.67
+Parand_2_False_True:12333.33
+Parand_1_False_True:12666.67
+Narmak_4_True_False:766666.67
+Razi_2_True_True:13700.0
+Feiz Garden_2_True_True:151666.67
+Parand_2_False_True:10333.33
+Islamshahr_1_False_True:22000.0
+Islamshahr_2_False_True:26000.0
+Shahrake Gharb_2_True_True:353333.33
+Islamshahr_1_False_False:56666.67
+Pardis_2_True_True:30333.33
+Andisheh_1_True_False:22333.33
+Punak_2_True_True:113333.33
+Punak_2_True_True:58333.33
+Parand_2_False_False:14000.0
+Parand_2_False_True:10166.67
+Parand_1_False_False:8500.0
+Parand_3_True_False:55000.0
+Parand_2_False_True:11500.0
+Parand_5_False_True:9833.33
+Parand_2_True_True:30000.0
+Pirouzi_1_False_True:41666.67
+Parand_1_True_True:9166.67
+Parand_2_False_False:8166.67
+Parand_2_True_True:10166.67
+Southern Janatabad_2_True_True:116666.67
+Jeyhoon_2_True_False:173333.33
+Majidieh_2_True_True:54000.0
+Central Janatabad_2_True_True:110000.0
+Punak_3_True_True:226666.67
+Gheitarieh_3_True_True:328333.33
+Andisheh_4_True_False:190000.0
+West Ferdows Boulevard_2_True_False:66333.33
+Shahrake Gharb_2_True_True:326666.67
+Heshmatieh_3_False_False:137500.0
+Heshmatieh_3_False_False:137500.0
+Jeyhoon_2_True_False:173333.33
+Central Janatabad_2_True_False:91666.67
+East Ferdows Boulevard_2_True_True:91666.67
+Shahr-e-Ziba_3_True_True:151000.0
+Persian Gulf Martyrs Lake_2_True_True:83333.33
+Shahrake Qods_2_True_True:32666.67
+Parand_2_False_False:31666.67
+Southern Janatabad_2_True_True:76666.67
+Taslihat_2_True_True:88333.33
+Pakdasht_2_True_True:30000.0
+Punak_2_True_True:76666.67
+Persian Gulf Martyrs Lake_2_True_False:383333.33
+Zafar_3_True_True:255866.67
+Rudhen_2_True_False:36666.67
+Andisheh_4_True_False:190000.0
+Kazemabad_2_False_True:100000.0
+Si Metri Ji_2_True_True:47000.0
+Damavand_1_True_False:283333.33
+Tajrish_4_True_True:300000.0
+Persian Gulf Martyrs Lake_2_True_True:73333.33
+Shahedshahr_2_False_True:23333.33
+Islamshahr_2_True_False:36666.67
+Feiz Garden_2_True_True:151666.67
+Narmak_1_True_True:70000.0
+Si Metri Ji_1_True_False:26000.0
+Zafar_2_True_True:166666.67
+Shahran_1_False_False:61666.67
+Ekhtiarieh_2_True_True:200000.0
+Parand_2_False_True:13500.0
+Islamshahr_2_True_False:50666.67
+Central Janatabad_2_True_True:133333.33
+Haft Tir_2_False_False:95000.0
+Shahrake Gharb_5_True_False:960000.0
+Karoon_2_False_False:35666.67
+Qasr-od-Dasht_2_False_True:42333.33
+Jeyhoon_1_False_False:33766.67
+Shams Abad_1_True_True:86666.67
+Salsabil_2_False_False:36333.33
+Central Janatabad_2_True_True:133333.33
+Pakdasht_1_True_True:16000.0
+Pardis_2_True_True:21933.33
+Keshavarz Boulevard_4_True_True:80666.67
+Karoon_1_False_False:33333.33
+Karoon_1_False_False:34000.0
+Pasdaran_2_True_True:180000.0
+Jeyhoon_1_False_False:30000.0
+Persian Gulf Martyrs Lake_2_True_True:14500.0
+Robat Karim_1_True_False:10166.67
+Parand_1_False_True:10166.67
+Islamshahr_2_True_False:33333.33
+Elahieh_3_True_True:338333.33
+Yousef Abad_2_True_True:200000.0
+Robat Karim_1_True_True:11666.67
+East Pars_2_False_False:40133.33
+Damavand_2_False_False:17333.33
+Feiz Garden_2_True_True:151666.67
+West Ferdows Boulevard_2_False_False:66666.67
+Southern Janatabad_2_True_True:125000.0
+Pirouzi_1_True_True:71766.67
+Northern Chitgar_0_True_True:11500.0
+Pardis_2_True_True:24333.33
+Pasdaran_2_True_True:156666.67
+Elahieh_3_True_True:583333.33
+Pasdaran_1_True_True:123333.33
+Feiz Garden_2_False_False:58333.33
+Shahran_2_True_True:79666.67
+Ray - Pilgosh_1_True_True:33000.0
+Ekhtiarieh_2_True_True:156666.67
+Parand_2_False_True:9333.33
+Islamshahr_2_True_True:48066.67
+Feiz Garden_1_False_False:60000.0
+Shahr-e-Ziba_3_True_True:130000.0
+Damavand_1_False_False:23666.67
+Gholhak_2_True_True:233333.33
+Pasdaran_3_True_True:433333.33
+Andisheh_1_True_False:8666.67
+Republic_2_True_True:48333.33
+Tehran Now_2_True_False:73333.33
+Andisheh_1_True_False:11500.0
+Shahryar_1_True_False:20000.0
+Shahran_2_True_True:86666.67
+Damavand_3_True_False:233333.33
+Northern Chitgar_1_True_True:29166.67
+Niavaran_2_True_True:300000.0
+Andisheh_1_True_False:22333.33
+Zargandeh_2_True_True:186666.67
+Narmak_2_True_True:106666.67
+Koohsar_2_True_True:80000.0
+Ghiyamdasht_2_True_True:21333.33
+Damavand_2_True_True:45000.0
+Saadat Abad_2_False_True:316666.67
+Parand_3_False_True:11000.0
+Golestan_1_True_True:12000.0
+Islamshahr_1_False_False:55000.0
+Southern Janatabad_2_True_True:90000.0
+Shahr-e-Ziba_5_True_False:356666.67
+Parand_1_True_True:13000.0
+Elahieh_1_True_True:275000.0
+Pirouzi_2_False_False:183333.33
+Gholhak_2_True_True:213333.33
+Shahedshahr_1_False_False:7000.0
+Southern Janatabad_2_True_False:70000.0
+Farmanieh_2_True_True:326000.0
+Kahrizak_3_True_True:41400.0
+Shahran_2_True_True:133333.33
+Abazar_2_True_True:83333.33
+Pakdasht_1_False_True:15000.0
+Telecommunication_2_False_True:26000.0
+Shahran_3_True_True:183333.33
+Parand_2_False_True:9333.33
+Islamshahr_1_False_False:27166.67
+Northern Chitgar_4_True_True:90666.67
+Hakimiyeh_1_True_True:77000.0
+Parand_1_False_False:8500.0
+Qasr-od-Dasht_1_True_True:66166.67
+Air force_2_False_False:83333.33
+Shahran_2_True_True:93333.33
+Ray_1_True_True:37800.0
+Northern Chitgar_3_True_True:58333.33
+Republic_1_False_False:63333.33
+Saadat Abad_2_True_True:128333.33
+Golestan_1_False_False:14000.0
+Persian Gulf Martyrs Lake_2_True_True:11000.0
+North Program Organization_5_True_False:1012000.0
+East Ferdows Boulevard_2_True_True:133000.0
+North Program Organization_3_True_True:199500.0
+Niavaran_1_True_True:210000.0
+Gheitarieh_4_True_True:1166666.67
+Mirza Shirazi_2_True_True:136666.67
+Northern Chitgar_3_True_True:74666.67
+Northren Jamalzadeh_2_False_False:80000.0
+Northren Jamalzadeh_3_True_True:223333.33
+Yousef Abad_4_True_False:283333.33
+Northren Jamalzadeh_2_True_True:86666.67
+Mehran_2_True_True:228000.0
+Northren Jamalzadeh_2_True_True:183333.33
+Northren Jamalzadeh_1_True_True:50000.0
+Parand_2_False_True:11766.67
+Koohsar_2_True_True:78333.33
+Parand_2_False_True:15666.67
+Gandhi_5_True_False:2333333.33
+Shahr-e-Ziba_1_False_False:49666.67
+Shahr-e-Ziba_2_True_True:176000.0
+Shahran_2_True_True:113333.33
+Northren Jamalzadeh_3_True_True:200000.0
+Parand_1_False_True:9833.33
+Gholhak_2_True_True:251666.67
+Parand_2_False_False:12666.67
+Northren Jamalzadeh_2_True_True:115000.0
+Shahr-e-Ziba_2_True_True:96666.67
+Shahr-e-Ziba_2_True_True:96666.67
+Narmak_2_True_True:126666.67
+Si Metri Ji_2_True_True:53333.33
+Andisheh_2_True_False:25133.33
+Karimkhan_2_True_True:106666.67
+Parand_0_True_True:3400.0
+Argentina_5_True_False:1111000.0
+Parand_2_False_True:16666.67
+Parand_2_True_True:8333.33
+Mehran_2_True_True:228000.0
+Central Janatabad_2_True_False:70000.0
+Parand_1_False_False:8666.67
+Parand_2_True_True:13000.0
+Parand_2_True_True:13333.33
+Parand_2_False_True:13166.67
+Marzdaran_2_True_True:136166.67
+Ostad Moein_2_True_True:105000.0
+Parand_2_False_True:13233.33
+Seyed Khandan_2_True_True:228000.0
+Malard_1_False_False:8333.33
+Feiz Garden_2_True_True:90000.0
+Afsarieh_2_True_True:80000.0
+Shahrake Quds_3_True_True:70500.0
+Pirouzi_2_False_False:53333.33
+Fallah_1_True_False:21666.67
+Gheitarieh_1_True_True:28333.33
+Safadasht_2_True_True:31280.0
+Niavaran_2_True_True:354666.67
+Shahrake Qods_2_False_False:27666.67
+Ostad Moein_1_True_True:53333.33
+Si Metri Ji_1_False_True:29666.67
+Jeyhoon_2_True_True:83333.33
+Rudhen_2_True_False:116666.67
+Saadat Abad_1_False_True:116333.33
+Shahrake Quds_2_False_True:25000.0
+West Ferdows Boulevard_2_True_True:168333.33
+Northren Jamalzadeh_2_True_True:86666.67
+Northren Jamalzadeh_2_False_False:80000.0
+Karoon_1_False_False:29666.67
+Azarbaijan_1_False_False:33333.33
+Northren Jamalzadeh_2_False_False:120000.0
+Amirabad_2_True_False:116666.67
+Afsarieh_2_True_False:44333.33
+Central Janatabad_2_True_True:208333.33
+Central Janatabad_2_True_True:208333.33
+Pasdaran_3_True_True:243333.33
+Heravi_3_True_True:253333.33
+West Ferdows Boulevard_1_False_False:52666.67
+Seyed Khandan_3_True_True:281666.67
+West Ferdows Boulevard_2_False_False:61333.33
+Northren Jamalzadeh_2_True_True:120000.0
+Ostad Moein_1_True_True:46000.0
+Tajrish_2_True_True:190000.0
+Ozgol_2_True_True:1833.33
+Persian Gulf Martyrs Lake_3_True_True:105000.0
+North Program Organization_2_True_True:72000.0
+Hashemi_1_False_False:19000.0
+Persian Gulf Martyrs Lake_1_True_True:70000.0
+Persian Gulf Martyrs Lake_1_True_True:81666.67
+Persian Gulf Martyrs Lake_2_True_True:108333.33
+Punak_1_True_False:66666.67
+Karimkhan_2_True_True:105666.67
+Lavasan_5_True_False:833333.33
+Jeyhoon_2_False_False:24333.33
+Beryanak_1_False_False:27666.67
+Ostad Moein_1_False_False:20666.67
+Beryanak_1_False_False:18666.67
+Jeyhoon_2_False_True:52666.67
+Beryanak_1_False_False:29333.33
+Qarchak_2_True_True:48333.33
+Parand_2_False_False:10000.0
+Ostad Moein_2_False_True:51666.67
+Pirouzi_1_False_False:41666.67
+Andisheh_2_True_False:36666.67
+Ostad Moein_1_False_False:28333.33
+Pirouzi_2_True_True:73333.33
+Southern Suhrawardi_3_True_True:223333.33
+Mehran_2_True_True:140000.0
+Jeyhoon_1_False_False:23833.33
+Komeil_1_True_True:36666.67
+Komeil_1_False_False:23333.33
+Beryanak_2_False_True:34000.0
+Parand_2_True_False:38333.33
+Ostad Moein_2_True_True:65666.67
+Khademabad Garden_2_True_True:58500.0
+Central Janatabad_2_True_True:85000.0
+Tenant_1_False_False:35000.0
+Tenant_1_False_True:45000.0
+Mirdamad_3_True_True:266666.67
+Jeyhoon_1_True_True:30000.0
+Tenant_2_True_True:105000.0
+Andisheh_1_True_False:18333.33
+Andisheh_2_True_True:15000.0
+Shahrake Gharb_3_True_True:466666.67
+Si Metri Ji_2_True_True:65000.0
+Salsabil_2_True_False:39500.0
+Tenant_1_False_True:41666.67
+Tenant_1_False_False:37100.0
+Punak_1_True_True:91666.67
+Pakdasht_3_True_True:32666.67
+Tenant_2_True_True:63000.0
+Tenant_2_True_True:80000.0
+Tenant_2_True_True:76666.67
+Tenant_3_True_True:108000.0
+Tenant_2_True_True:86666.67
+Ostad Moein_2_True_True:81333.33
+Tenant_1_True_True:40000.0
+Tenant_2_True_True:97666.67
+Tenant_1_False_True:40000.0
+Tenant_1_False_False:37333.33
+Tenant_1_False_False:47333.33
+Dezashib_3_True_True:400000.0
+Andisheh_1_True_True:15000.0
+Tenant_1_False_False:38500.0
+Tajrish_2_True_True:190000.0
+Tenant_1_True_False:46666.67
+Gisha_2_True_True:183333.33
+Persian Gulf Martyrs Lake_2_True_True:110000.0
+Andisheh_2_True_False:20000.0
+Persian Gulf Martyrs Lake_2_True_True:35333.33
+Yousef Abad_2_True_True:186666.67
+Mirdamad_3_True_False:216666.67
+Jeyhoon_1_True_False:33166.67
+Hakimiyeh_2_True_True:72333.33
+Farmanieh_2_True_True:206666.67
+Pardis_3_True_True:130000.0
+Ostad Moein_2_True_True:105000.0
+Persian Gulf Martyrs Lake_3_True_True:105000.0
+Tenant_2_False_False:36666.67
+Parand_2_False_True:11666.67
+Sabalan_2_True_True:76666.67
+Jeyhoon_1_True_True:50000.0
+Karoon_1_False_False:26666.67
+Farmanieh_3_True_True:1540000.0
+Jeyhoon_1_True_False:34666.67
+Gheitarieh_2_True_True:200000.0
+Valiasr_2_True_False:60000.0
+Ostad Moein_3_True_True:122666.67
+Azarbaijan_1_False_False:31666.67
+Parand_2_True_True:12000.0
+Si Metri Ji_2_True_True:65000.0
+Zafar_3_False_False:200000.0
+Hor Square_1_True_False:28616.67
+Shahran_2_True_True:108333.33
+Ostad Moein_1_True_True:42666.67
+Parand_2_False_True:13000.0
+Ekhtiarieh_3_True_True:280000.0
+Fallah_1_False_True:23666.67
+East Ferdows Boulevard_3_True_True:316666.67
+Fallah_1_True_True:26866.67
+Fallah_2_True_True:40000.0
+Fallah_1_False_True:24666.67
+Ostad Moein_1_True_True:53333.33
+Hashemi_3_True_True:55000.0
+Ostad Moein_1_True_True:45000.0
+Si Metri Ji_1_True_True:30000.0
+East Pars_2_False_True:46000.0
+Persian Gulf Martyrs Lake_3_True_True:138333.33
+Ray_2_True_True:60666.67
+Persian Gulf Martyrs Lake_2_True_True:105666.67
+Abazar_2_True_True:100000.0
+Shahrake Quds_2_True_False:21666.67
+Railway_1_True_True:29000.0
+East Pars_2_True_True:51666.67
+Central Janatabad_2_True_True:87333.33
+Ostad Moein_2_False_True:44000.0
+Si Metri Ji_2_True_True:61000.0
+Central Janatabad_2_True_True:128333.33
+West Ferdows Boulevard_2_True_False:66666.67
+Shahrake Qods_2_True_True:29333.33
+Ostad Moein_2_True_True:65666.67
+Jeyhoon_1_True_False:35000.0
+Persian Gulf Martyrs Lake_2_True_True:90000.0
+Shahr-e-Ziba_3_True_True:132666.67
+Niavaran_3_True_True:696666.67
+West Ferdows Boulevard_2_True_True:88000.0
+Ostad Moein_2_True_True:65666.67
+West Ferdows Boulevard_2_True_True:163333.33
+Ostad Moein_2_True_True:75000.0
+Andisheh_1_False_False:25000.0
+West Ferdows Boulevard_2_True_True:97666.67
+West Ferdows Boulevard_2_True_True:85000.0
+Punak_2_True_False:75000.0
+Ostad Moein_1_True_True:53333.33
+Parastar_2_True_True:83333.33
+West Ferdows Boulevard_1_True_False:65000.0
+East Pars_1_True_True:48333.33
+Persian Gulf Martyrs Lake_2_True_True:175066.67
+Shahran_2_True_False:70000.0
+Pasdaran_2_True_True:282500.0
+Keshavarz Boulevard_2_True_True:116666.67
+Shahrake Quds_1_True_False:17333.33
+Andisheh_1_False_False:10666.67
+Yousef Abad_2_True_False:210000.0
+Karoon_1_False_False:22666.67
+Saadat Abad_2_True_True:133333.33
+North Program Organization_2_True_True:163333.33
+North Program Organization_3_True_True:170000.0
+Abazar_3_True_True:143333.33
+Hassan Abad_1_True_True:17000.0
+East Pars_1_True_True:38166.67
+Persian Gulf Martyrs Lake_3_True_True:126666.67
+North Program Organization_3_True_True:176666.67
+West Ferdows Boulevard_1_True_True:73333.33
+Islamshahr_1_False_False:7266.67
+Shahrake Gharb_1_True_True:166666.67
+Islamshahr_2_False_False:14333.33
+North Program Organization_3_True_True:266666.67
+Islamshahr_1_False_False:8000.0
+Islamshahr_1_False_False:11000.0
+Saadat Abad_2_True_True:10500.0
+Shahryar_3_True_True:38166.67
+Parand_1_False_False:7833.33
+Nawab_1_False_False:23333.33
+Parand_1_False_False:8500.0
+Feiz Garden_2_True_True:133333.33
+Pasdaran_1_True_True:170000.0
+Pasdaran_3_True_True:325000.0
+Pakdasht_1_False_False:10666.67
+Marzdaran_2_False_True:180000.0
+Si Metri Ji_2_False_True:46666.67
+Jeyhoon_2_False_True:76666.67
+Marzdaran_2_True_True:207666.67
+Waterfall_3_True_True:286666.67
+Marzdaran_2_True_True:216666.67
+Chidz_1_True_False:100000.0
+Mahallati_2_True_True:176666.67
+Seyed Khandan_2_False_False:126666.67
+Ekhtiarieh_3_True_True:540000.0
+Northern Janatabad_1_False_False:58166.67
+Salsabil_2_True_True:66666.67
+Abazar_3_True_True:141666.67
+Central Janatabad_2_True_True:105000.0
+East Ferdows Boulevard_3_True_True:316666.67
+Yousef Abad_2_True_True:210000.0
+Salsabil_1_True_False:35000.0
+Parand_2_False_True:18333.33
+Jeyhoon_2_True_True:62000.0
+Jeyhoon_1_True_True:31000.0
+Jordan_1_True_True:150000.0
+Saadat Abad_2_True_True:166666.67
+East Ferdows Boulevard_3_True_True:243333.33
+Saadat Abad_2_True_True:200000.0
+Farmanieh_4_True_False:1200000.0
+Punak_2_True_False:70000.0
+Si Metri Ji_1_False_True:26333.33
+Jeyhoon_2_False_True:56666.67
+Si Metri Ji_1_True_True:33000.0
+Hashemi_1_True_True:50000.0
+Punak_1_True_True:94000.0
+Persian Gulf Martyrs Lake_3_True_True:250000.0
+Shahrake Gharb_2_True_True:186666.67
+Niavaran_3_True_True:588500.0
+Qasr-od-Dasht_1_True_True:38333.33
+Karoon_2_True_False:48333.33
+Mirdamad_2_True_True:332333.33
+Azarbaijan_1_False_False:24666.67
+Niavaran_1_True_True:153333.33
+Hashemi_1_True_True:51000.0
+Shahran_2_True_True:105000.0
+Northern Janatabad_1_True_False:76000.0
+Parand_2_True_True:19666.67
+Mirdamad_2_True_True:163333.33
+Southern Janatabad_2_True_False:69666.67
+Yousef Abad_3_True_True:200000.0
+Shahrake Gharb_2_True_True:343333.33
+Tehransar_2_True_True:116000.0
+Gheitarieh_3_True_False:213333.33
+Shahryar_2_True_True:40833.33
+Shahran_2_True_True:80000.0
+Punak_2_True_False:72333.33
+Central Janatabad_2_True_True:87333.33
+Punak_1_True_False:90000.0
+Shahran_1_True_False:55000.0
+Niavaran_3_True_True:533333.33
+Keshavarz Boulevard_1_False_False:63333.33
+Shahrake Qods_3_True_True:58000.0
+Sadeghieh_1_True_True:54000.0
+Jeyhoon_1_True_True:43333.33
+Shahran_2_True_True:106666.67
+Sadeghieh_3_True_True:171666.67
+Pakdasht_2_False_False:17000.0
+Tenant_1_False_True:46666.67
+Damavand_2_False_False:133333.33
+Shahr-e-Ziba_2_True_True:105000.0
+Mirdamad_2_True_True:243333.33
+Shahr-e-Ziba_2_True_True:99166.67
+Parand_3_False_True:16266.67
+West Pars_1_True_True:73333.33
+Shahrake Qods_3_True_True:58000.0
+Pardis_2_True_True:18333.33
+Central Janatabad_2_True_True:120000.0
+Gheitarieh_3_True_True:190000.0
+Mirdamad_2_True_True:259000.0
+Shahrake Azadi_2_True_False:33333.33
+West Ferdows Boulevard_2_True_False:93333.33
+Central Janatabad_2_True_True:110000.0
+Parand_2_True_True:12833.33
+Pardis_2_True_True:18333.33
+Jordan_4_True_True:566666.67
+Shahr-e-Ziba_2_True_True:108333.33
+Fallah_1_True_False:26666.67
+Niavaran_2_True_True:403333.33
+Jeyhoon_2_True_True:63000.0
+Northern Janatabad_1_False_False:55000.0
+Southern Program Organization_1_True_True:83333.33
+Shahrake Gharb_2_True_True:240000.0
+Shahr-e-Ziba_2_True_True:100000.0
+Shahr-e-Ziba_2_True_True:170000.0
+Mehran_2_True_True:31333.33
+East Ferdows Boulevard_2_True_True:72000.0
+Punak_2_True_True:74666.67
+Atabak_3_False_False:30000.0
+Amir Bahador_1_False_False:326666.67
+Southern Janatabad_2_True_True:73333.33
+West Ferdows Boulevard_1_True_True:75000.0
+Jeyhoon_1_False_True:30000.0
+Shahran_2_True_True:126666.67
+Salsabil_2_False_False:26333.33
+Si Metri Ji_2_True_True:45000.0
+Zafar_2_True_True:190000.0
+Punak_2_True_True:136666.67
+Gheitarieh_2_True_True:205833.33
+Persian Gulf Martyrs Lake_2_True_True:116666.67
+Si Metri Ji_2_False_True:45000.0
+Heravi_2_True_True:143333.33
+West Ferdows Boulevard_2_False_False:105000.0
+Golestan_1_False_False:25000.0
+Andisheh_2_True_False:17166.67
+Azarbaijan_1_False_False:40000.0
+Jeyhoon_1_True_False:27666.67
+Jeyhoon_1_False_True:31333.33
+Jeyhoon_2_True_True:86666.67
+Dorous_4_True_True:2650000.0
+Si Metri Ji_2_True_True:65000.0
+Narmak_1_True_False:70000.0
+Shahr-e-Ziba_2_True_False:126666.67
+Persian Gulf Martyrs Lake_3_True_True:25500.0
+Jordan_4_True_False:433333.33
+Khavaran_1_False_False:23666.67
+Pasdaran_2_True_True:316666.67
+Salsabil_2_False_False:46666.67
+Qarchak_1_False_False:20000.0
+Northern Chitgar_2_True_True:23000.0
+Heravi_2_True_True:153000.0
+East Ferdows Boulevard_1_True_True:73333.33
+Argentina_3_True_False:566666.67
+Si Metri Ji_2_True_True:63333.33
+Parand_2_False_False:25000.0
+Parand_2_True_False:12500.0
+Qasr-od-Dasht_1_True_False:33000.0
+Ostad Moein_2_True_False:66666.67
+West Ferdows Boulevard_2_True_True:116666.67
+Southern Program Organization_1_True_False:68333.33
+Komeil_1_False_True:27000.0
+Southern Janatabad_2_True_True:125000.0
+Ostad Moein_2_False_False:50000.0
+Khavaran_1_True_True:21633.33
+Velenjak_2_True_True:606666.67
+Ostad Moein_2_False_True:44000.0
+North Program Organization_2_True_True:158333.33
+Shahrake Gharb_1_True_False:250000.0
+Shahran_2_False_False:63333.33
+Boloorsazi_2_True_True:53333.33
+Salsabil_1_False_False:28333.33
+Beryanak_1_False_True:24166.67
+Punak_1_True_True:78000.0
+Heravi_1_False_False:137166.67
+Air force_2_True_True:58333.33
+West Ferdows Boulevard_1_True_True:66666.67
+Gheitarieh_3_True_True:433333.33
+Punak_1_True_True:78333.33
+Parand_2_False_False:12666.67
+Khavaran_1_False_False:22266.67
+Central Janatabad_2_True_True:118333.33
+Shahran_2_True_True:96000.0
+Shahran_2_True_True:80000.0
+Parand_2_True_True:18333.33
+Tajrish_3_True_True:425000.0
+Mehrabad River River_2_False_False:86666.67
+Gheitarieh_3_True_True:410000.0
+Parand_2_True_True:18333.33
+Shahran_2_True_False:66333.33
+Shahran_2_True_True:99333.33
+Central Janatabad_2_True_True:130000.0
+Jordan_2_True_True:206666.67
+Abuzar_2_True_True:90500.0
+Komeil_2_False_False:24333.33
+Yousef Abad_2_True_True:254333.33
+Tajrish_0_False_False:2520000.0
+Shahrake Qods_2_True_True:31666.67
+Qasr-od-Dasht_1_False_False:26666.67
+Salsabil_1_False_False:25000.0
+Velenjak_3_True_True:1333333.33
+Shahrake Qods_2_False_True:28333.33
+Jeyhoon_2_True_True:74000.0
+Gheitarieh_2_True_True:416666.67
+Varamin - Beheshti_5_True_False:116666.67
+Jeyhoon_2_False_True:62833.33
+Mirdamad_3_True_True:393333.33
+Shahrake Qods_2_False_True:17500.0
+Shahrake Qods_2_True_True:30666.67
+Shahrake Qods_1_False_True:19333.33
+Shahrake Qods_2_True_True:31000.0
+Water Organization_2_True_False:83333.33
+Shahran_2_True_True:135666.67
+East Ferdows Boulevard_2_True_True:98333.33
+Saadat Abad_1_True_True:116333.33
+Saadat Abad_2_True_True:173333.33
+Saadat Abad_3_True_True:250000.0
+Si Metri Ji_1_True_False:27000.0
+Shoosh_1_False_False:30666.67
+Elahieh_2_False_False:383333.33
+Persian Gulf Martyrs Lake_3_True_True:58333.33
+Shahr-e-Ziba_1_False_False:600000.0
+Jeyhoon_1_False_False:26666.67
+Salsabil_1_False_False:36666.67
+Salsabil_2_False_False:45000.0
+Ostad Moein_2_True_True:62000.0
+Southern Janatabad_2_True_True:186666.67
+Ostad Moein_1_True_True:46000.0
+Ostad Moein_1_False_True:39333.33
+Jordan_4_True_True:379500.0
+Northern Chitgar_2_True_True:23000.0
+Jeyhoon_2_True_True:61666.67
+Shahran_2_True_True:136000.0
+Vanak_3_True_True:263333.33
+Saadat Abad_2_True_True:165000.0
+Salsabil_3_True_True:116666.67
+Azarbaijan_2_True_False:54000.0
+Yousef Abad_2_True_True:240000.0
+Northern Chitgar_2_True_True:10666.67
+Punak_2_True_True:100000.0
+Komeil_1_True_True:55666.67
+North Program Organization_2_True_True:98333.33
+Azarbaijan_2_False_True:60000.0
+Andisheh_2_False_False:31666.67
+East Ferdows Boulevard_2_True_True:99333.33
+Northern Chitgar_1_True_True:29166.67
+Saadat Abad_2_True_True:200000.0
+Fatemi_2_False_False:103333.33
+Parand_2_True_True:15500.0
+Amirieh_2_True_True:56666.67
+Shahran_2_True_True:106666.67
+Shahran_1_True_True:76666.67
+Shahr-e-Ziba_2_True_True:110000.0
+Shahran_1_True_True:58666.67
+Taslihat_2_False_True:60000.0
+Sadeghieh_2_True_True:110000.0
+Kook_3_True_True:59733.33
+Thirteen November_1_True_True:26666.67
+West Ferdows Boulevard_2_True_True:113333.33
+West Ferdows Boulevard_1_True_True:71666.67
+Zargandeh_2_True_True:193333.33
+Shahran_2_True_True:80333.33
+Shahran_2_True_True:96666.67
+Shahedshahr_2_True_True:14033.33
+Shahran_1_True_True:63000.0
+Northern Chitgar_2_True_True:43833.33
+Hashemi_1_False_False:31666.67
+Punak_2_True_True:93333.33
+Railway_2_True_True:51200.0
+Ostad Moein_1_True_True:39000.0
+Jeyhoon_2_True_True:70000.0
+Niavaran_3_True_True:506666.67
+Kamranieh_3_True_True:1152000.0
+Central Janatabad_2_True_True:119666.67
+Parand_2_False_True:13266.67
+Punak_1_True_False:71666.67
+Darakeh_2_True_True:96666.67
+Persian Gulf Martyrs Lake_2_True_True:76666.67
+West Ferdows Boulevard_2_True_True:165000.0
+Punak_2_True_True:73333.33
+Shahran_1_True_True:62666.67
+Sattarkhan_5_False_False:933333.33
+Jeyhoon_5_False_False:166666.67
+Parand_2_False_False:13166.67
+Aliabad South_2_True_False:28333.33
+Punak_2_False_False:76666.67
+Parand_3_True_True:70000.0
+Punak_2_False_True:68333.33
+West Ferdows Boulevard_2_True_False:82666.67
+Jeyhoon_5_False_False:156666.67
+Punak_2_True_False:62666.67
+Pirouzi_1_True_True:16666.67
+Jordan_1_True_True:223333.33
+Shahran_1_True_True:75666.67
+Niavaran_3_True_True:300000.0
+Amirabad_4_True_True:80000.0
+Shahran_2_True_True:86333.33
+Punak_1_True_True:91666.67
+Shahran_2_True_False:103333.33
+Ostad Moein_0_False_False:16666.67
+Southern Janatabad_2_True_True:150000.0
+Jordan_3_True_True:450000.0
+ShahrAra_2_True_False:98333.33
+Gheitarieh_2_True_True:200000.0
+Yousef Abad_3_True_True:366666.67
+Alborz Complex_1_True_False:21500.0
+Punak_2_False_False:76666.67
+Shahran_2_True_True:140000.0
+Shahran_2_True_True:110000.0
+Shahran_2_True_True:131666.67
+Narmak_1_False_True:76666.67
+Ostad Moein_2_True_True:56000.0
+Fatemi_2_True_False:143333.33
+Punak_2_True_False:76666.67
+Central Janatabad_2_True_True:143333.33
+Beryanak_1_False_False:22733.33
+Salsabil_2_False_False:27666.67
+Karoon_1_True_True:56666.67
+Jordan_3_True_True:256666.67
+Qasr-od-Dasht_1_False_False:26333.33
+Salsabil_1_True_False:26000.0
+Gheitarieh_2_True_True:287000.0
+Saadat Abad_3_True_True:266666.67
+Eskandari_1_False_True:42666.67
+Punak_2_True_True:93333.33
+Kamranieh_3_True_True:566666.67
+Ekhtiarieh_2_True_True:270000.0
+Karoon_1_False_False:29333.33
+Azarbaijan_1_True_False:41666.67
+Central Janatabad_1_True_True:66666.67
+Salsabil_1_True_False:35000.0
+Farmanieh_3_True_True:1120000.0
+Parand_2_False_True:15166.67
+Pirouzi_2_False_False:79200.0
+Feiz Garden_2_False_False:63333.33
+Jeyhoon_1_False_False:31500.0
+Azarbaijan_1_False_False:42333.33
+Shahryar_2_True_True:83333.33
+Gheitarieh_3_True_True:256666.67
+Shahran_2_True_True:78333.33
+Gheitarieh_2_True_True:288666.67
+Niavaran_4_True_True:500000.0
+Elahieh_3_True_False:1152000.0
+Parand_2_False_True:11000.0
+Ostad Moein_1_True_True:42666.67
+Pishva_2_False_False:10000.0
+Jordan_2_True_True:173333.33
+Punak_2_True_True:110000.0
+Elahieh_3_True_False:392000.0
+Beryanak_1_False_False:24666.67
+Farmanieh_2_True_True:148333.33
+Farmanieh_3_True_True:666666.67
+Gheitarieh_2_True_True:37500.0
+Shahr-e-Ziba_2_True_True:96666.67
+Azarbaijan_4_True_False:500000.0
+Shahran_2_False_False:136000.0
+Shahran_2_True_True:130000.0
+Shahrake Gharb_3_True_True:605000.0
+Pardis_2_True_True:21666.67
+Shahr-e-Ziba_2_False_True:71666.67
+Persian Gulf Martyrs Lake_2_True_True:116666.67
+Shahran_2_True_True:133333.33
+Shahran_2_True_True:180000.0
+Shahrake Qods_1_False_False:18333.33
+Jeyhoon_2_True_True:56666.67
+Saadat Abad_3_True_True:300000.0
+Qasr-od-Dasht_1_False_False:33333.33
+Shahr-e-Ziba_2_True_False:82666.67
+Persian Gulf Martyrs Lake_2_True_True:25000.0
+Parand_1_False_False:10000.0
+Parand_1_False_False:10000.0
+Saadat Abad_2_True_True:286666.67
+Mirdamad_2_True_True:273333.33
+Parand_2_False_False:26000.0
+Firoozkooh_2_True_False:15666.67
+Yousef Abad_5_True_False:600000.0
+Golestan_2_True_True:78000.0
+West Pars_3_True_True:186666.67
+Amirabad_3_False_True:143333.33
+Punak_2_True_True:71666.67
+Saadat Abad_3_True_True:366666.67
+Jeyhoon_2_True_True:56000.0
+Vahidiyeh_2_False_True:19600.0
+Shadabad_1_True_True:29666.67
+Andisheh_1_True_True:26583.33
+West Ferdows Boulevard_2_True_True:136666.67
+Persian Gulf Martyrs Lake_3_True_True:9833.33
+Persian Gulf Martyrs Lake_2_True_True:9666.67
+Persian Gulf Martyrs Lake_1_True_True:9833.33
+Beryanak_1_False_False:25333.33
+Gheitarieh_3_True_True:241666.67
+Parand_2_False_False:12666.67
+Ozgol_3_True_True:218333.33
+Yousef Abad_2_False_False:71666.67
+Punak_2_False_False:63333.33
+Salsabil_2_True_True:50666.67
+Andisheh_2_True_False:32666.67
+Persian Gulf Martyrs Lake_4_True_True:90666.67
+Parand_2_True_False:70000.0
+Ozgol_3_True_True:218333.33
+Narmak_2_False_False:210000.0
+Gheitarieh_2_True_True:233333.33
+Gheitarieh_3_True_True:306666.67
+Farmanieh_2_True_True:203333.33
+Ahang_1_True_True:46666.67
+West Pars_3_True_True:218333.33
+Parand_2_False_True:22666.67
+Naziabad_1_False_False:21333.33
+Punak_1_True_True:73333.33
+Parand_1_False_True:11666.67
+Jordan_3_True_True:465000.0
+Afsarieh_2_True_True:51666.67
+Jordan_3_True_True:316666.67
+Azarbaijan_3_True_True:114666.67
+Azarbaijan_3_True_True:114666.67
+Pardis_1_False_True:18000.0
+Kook_3_True_True:350000.0
+Shahrake Gharb_3_True_True:350000.0
+Shahrake Gharb_4_True_True:950000.0
+Shahrake Gharb_3_True_True:375000.0
+Shahrake Gharb_2_True_True:400000.0
+Andisheh_1_True_True:23600.0
+Parand_3_True_True:14333.33
+Jeyhoon_2_True_True:75000.0
+Parand_1_True_True:11333.33
+Parand_2_True_True:16000.0
+Central Janatabad_2_True_True:100000.0
+Gheitarieh_2_False_False:51666.67
+Vahidieh_2_False_True:42666.67
+Salsabil_2_False_False:40000.0
+Afsarieh_2_False_False:37333.33
+West Ferdows Boulevard_2_True_True:100000.0
+Shahran_1_True_True:56666.67
+East Ferdows Boulevard_2_True_True:100000.0
+Southern Janatabad_2_True_True:102000.0
+Northern Janatabad_2_False_False:172500.0
+West Pars_2_True_False:65000.0
+Southern Janatabad_2_True_True:85000.0
+Southern Janatabad_2_True_True:100000.0
+Central Janatabad_2_True_True:100000.0
+Narmak_2_True_True:133333.33
+Niavaran_3_True_True:366666.67
+ShahrAra_3_True_True:260000.0
+Parand_1_False_True:16000.0
+Marzdaran_3_True_True:340000.0
+Feiz Garden_2_True_True:111666.67
+Pasdaran_3_True_True:411666.67
+Pasdaran_2_True_True:293333.33
+Pirouzi_1_False_False:36666.67
+Marzdaran_3_True_True:518766.67
+Chidz_2_True_True:286666.67
+Farmanieh_2_True_True:240000.0
+Central Janatabad_1_True_True:65000.0
+Mahmoudieh_2_True_True:280000.0
+Tehran Now_1_False_False:50000.0
+Marzdaran_3_True_True:223333.33
+Kook_3_True_True:433333.33
+Niavaran_2_True_True:300000.0
+Ghoba_2_True_True:271666.67
+Southern Janatabad_2_True_True:110000.0
+Central Janatabad_2_True_True:113333.33
+West Ferdows Boulevard_2_True_False:66666.67
+Damavand_2_True_True:58333.33
+Salsabil_1_False_False:21000.0
+Punak_1_True_True:78666.67
+Salsabil_2_True_True:63333.33
+Amirieh_2_True_True:60000.0
+Salsabil_1_False_False:23833.33
+Shahran_2_True_True:75666.67
+Southern Janatabad_2_True_True:111666.67
+Republic_1_False_False:46666.67
+Rudhen_2_False_False:95000.0
+Amirieh_2_True_True:55666.67
+Qasr-od-Dasht_2_True_True:60000.0
+Amirieh_2_True_True:55000.0
+Amirieh_2_True_True:66000.0
+Parand_2_False_True:11500.0
+West Ferdows Boulevard_1_True_True:750000.0
+Shahr-e-Ziba_1_True_True:65333.33
+East Ferdows Boulevard_3_True_True:194333.33
+Abazar_2_True_True:111666.67
+Pasdaran_3_True_True:310000.0
+Heravi_2_True_True:201666.67
+Southern Janatabad_2_True_True:111666.67
+Islamshahr_2_True_True:28500.0
+Kahrizak_1_False_False:15000.0
+Javadiyeh_3_False_False:48333.33
+Shahran_1_False_False:49000.0
+Southern Janatabad_2_True_True:116666.67
+Saadat Abad_2_True_True:151666.67
+Saadat Abad_2_True_True:130000.0
+Atabak_3_False_False:42883.33
+Saadat Abad_3_True_True:250000.0
+Saadat Abad_1_False_True:116333.33
+Saadat Abad_2_True_True:149333.33
+Damavand_2_False_False:25000.0
+Saadat Abad_2_True_True:175000.0
+Central Janatabad_2_True_True:63333.33
+Shahran_2_True_True:120000.0
+Yousef Abad_3_True_True:271333.33
+Shahran_2_True_True:105000.0
+Darabad_2_True_True:233333.33
+Si Metri Ji_1_False_True:296666.67
+Narmak_2_True_False:61666.67
+Mirdamad_2_True_True:253233.33
+Tehransar_1_True_True:39333.33
+Jeyhoon_1_True_True:57500.0
+Shahr-e-Ziba_2_True_True:95000.0
+Yakhchiabad_2_False_False:33333.33
+Persian Gulf Martyrs Lake_3_True_True:28833.33
+Shoosh_3_True_False:40000.0
+Shahrake Quds_2_False_False:16666.67
+Jeyhoon_1_True_False:40000.0
+Parand_3_False_True:9166.67
+Parand_1_False_True:8200.0
+West Ferdows Boulevard_2_True_True:86666.67
+Shahrake Qods_0_False_False:15666.67
+Daryan No_3_True_True:210000.0
+Parand_2_False_True:10433.33
+Velenjak_3_True_True:500000.0
+Mehran_3_True_True:280000.0
+Persian Gulf Martyrs Lake_2_True_True:133333.33
+Ostad Moein_1_False_True:36666.67
+Kamranieh_3_True_True:466666.67
+Punak_1_True_True:116666.67
+Sattarkhan_3_True_True:180000.0
+Punak_3_True_True:228333.33
+Shahran_2_True_True:107333.33
+West Ferdows Boulevard_1_True_False:55000.0
+Waterfall_2_False_True:33333.33
+Punak_2_True_True:125333.33
+Central Janatabad_2_False_True:106666.67
+Central Janatabad_2_True_True:133333.33
+Mehran_2_True_True:236000.0
+Marzdaran_3_True_False:360000.0
+West Ferdows Boulevard_1_True_False:62000.0
+Shahryar_2_False_True:13666.67
+Vahidiyeh_2_False_False:17333.33
+Velenjak_3_True_True:416666.67
+Daryan No_3_True_True:200000.0
+Ostad Moein_2_True_True:75000.0
+Parand_1_False_True:10833.33
+Punak_1_True_True:76666.67
+West Ferdows Boulevard_1_True_True:65000.0
+Shahrake Gharb_3_True_True:333333.33
+Damavand_2_False_True:19833.33
+Beryanak_2_False_True:41933.33
+Andisheh_2_False_False:15333.33
+West Ferdows Boulevard_2_True_True:88333.33
+West Ferdows Boulevard_2_True_True:148500.0
+Mehran_2_True_True:135666.67
+Shahran_2_True_True:90000.0
+Niavaran_2_True_True:281666.67
+Ostad Moein_3_True_True:105666.67
+Feiz Garden_1_True_False:63000.0
+Southern Janatabad_2_True_True:116666.67
+Niavaran_2_True_True:226666.67
+Parand_2_False_False:12166.67
+Dorous_2_True_True:186666.67
+Parand_2_False_True:12000.0
